@@ -1,0 +1,75 @@
+{"template": "what are_verb the top [n_rank] frequent prescribed drugs for patients who were also prescribed {drug_name} [time_filter_within] [time_filter_global1]?"}
+{"template": "what are_verb the top [n_rank] frequent diagnoses of patients aged [age_group] [time_filter_global1]?"}
+{"template": "what percentile is the value of {lab_value} in a {lab_name} lab test among patients of the same age as patient {patient_id} [time_filter_global1]?"}
+{"template": "what was the name of the drug that patient {patient_id} was [time_filter_exact1] prescribed via {drug_route} route [time_filter_global1]?"}
+{"template": "what was the name of the specimen that patient {patient_id} was [time_filter_exact1] tested [time_filter_global1]?"}
+{"template": "what are_verb the top [n_rank] frequent diagnoses [time_filter_global1]?"}
+{"template": "what was the [time_filter_exact1] measured weight of patient {patient_id} [time_filter_global1]?"}
+{"template": "count the number of patients who were dead after having been diagnosed with {diagnosis_name} [time_filter_within] [time_filter_global1]."}
+{"template": "when was the [time_filter_exact1] hospital discharge time of patient {patient_id} [time_filter_global1]?"}
+{"template": "what are_verb the top [n_rank] frequently prescribed drugs that {gender} patients aged [age_group] were prescribed [time_filter_within] after having been diagnosed with {diagnosis_name} [time_filter_global1]?"}
+{"template": "when was the [time_filter_exact1] time that patient {patient_id} was prescribed {drug_name1} and {drug_name2} [time_filter_within] [time_filter_global1]?"}
+{"template": "count the number of patients who received a {procedure_name} procedure [time_filter_global1]."}
+{"template": "count the number of patients who were diagnosed with {diagnosis_name2} [time_filter_within] after having been diagnosed with {diagnosis_name1} [time_filter_global1]."}
+{"template": "when was the [time_filter_exact1] time that patient {patient_id} was diagnosed with {diagnosis_name} [time_filter_global1]?"}
+{"template": "what is_verb the age of patient {patient_id} [time_filter_global1]?"}
+{"template": "how many [unit_count] have passed since the [time_filter_exact1] time patient {patient_id} stayed in careunit {careunit} on the current hospital visit?"}
+{"template": "what are_verb the top [n_rank] frequent procedures of patients aged [age_group] [time_filter_global1]?"}
+{"template": "what was the name of the measurement that patient {patient_id} [time_filter_exact1] had [time_filter_global1]?"}
+{"template": "count the number of current patients."}
+{"template": "has_verb there been any organism found in the [time_filter_exact1] {culture_name} microbiology test of patient {patient_id} [time_filter_global1]?"}
+{"template": "is the {vital_name} of patient {patient_id} [time_filter_exact2] measured [time_filter_global2] [comparison] than the [time_filter_exact1] value measured [time_filter_global1]?"}
+{"template": "has_verb patient {patient_id} received a {lab_name} lab test [time_filter_global1]?"}
+{"template": "what was the name of the lab test that patient {patient_id} [time_filter_exact1] received [time_filter_global1]?"}
+{"template": "when was the [time_filter_exact1] time that patient {patient_id} was prescribed a medication via {drug_route} route [time_filter_global1]?"}
+{"template": "what are_verb the top [n_rank] frequent intake events [time_filter_global1]?"}
+{"template": "has_verb the {vital_name} of patient {patient_id} been ever [comparison] than {vital_value} [time_filter_global1]?"}
+{"template": "what are_verb the top [n_rank] frequent specimens that patients were tested [time_filter_within] after having received a {procedure_name} procedure [time_filter_global1]?"}
+{"template": "has_verb patient {patient_id} been prescribed {drug_name} [time_filter_global1]?"}
+{"template": "how many [unit_count] have passed since patient {patient_id} was admitted to the icu currently?"}
+{"template": "how many [unit_count] have passed since patient {patient_id} was admitted to the hospital currently?"}
+{"template": "what are_verb the top [n_rank] frequent lab tests that patients had [time_filter_within] after having been diagnosed with {diagnosis_name} [time_filter_global1]?"}
+{"template": "what is the [agg_function] [unit_average] number of patient records diagnosed with {diagnosis_name} [time_filter_global1]?"}
+{"template": "what was the name of the drug that patient {patient_id} was prescribed [time_filter_within] after having received a {procedure_name} procedure [time_filter_global1]?"}
+{"template": "how many [unit_count] have passed since the [time_filter_exact1] time patient {patient_id} had a {intake_name} intake on the current icu visit?"}
+{"template": "has_verb patient {patient_id} been prescribed any medication [time_filter_global1]?"}
+{"template": "count the number of icu visits of patient {patient_id} [time_filter_global1]."}
+{"template": "what was the total amount of dose of {drug_name} that patient {patient_id} were prescribed [time_filter_global1]?"}
+{"template": "what was the organism name found in the [time_filter_exact1] {culture_name} microbiology test of patient {patient_id} [time_filter_global1]?"}
+{"template": "count the number of current patients aged [age_group]."}
+{"template": "count the number of hospital visits of patient {patient_id} [time_filter_global1]."}
+{"template": "what is the intake method of {drug_name}?"}
+{"template": "count the number of patients who received a {procedure_name} procedure [n_times] [time_filter_global1]."}
+{"template": "what is the change in the {vital_name} of patient {patient_id} from the [time_filter_exact2] value measured [time_filter_global2] compared to the [time_filter_exact1] value measured [time_filter_global1]?"}
+{"template": "what are_verb the top [n_rank] frequent specimens that patients were tested [time_filter_within] after having been diagnosed with {diagnosis_name} [time_filter_global1]?"}
+{"template": "how many [unit_count] have passed since the [time_filter_exact1] time patient {patient_id} was prescribed {drug_name} on the current hospital visit?"}
+{"template": "what was the [time_filter_exact1] hospital admission type of patient {patient_id} [time_filter_global1]?"}
+{"template": "when was the [time_filter_exact1] hospital admission time of patient {patient_id} [time_filter_global1]?"}
+{"template": "when was the [time_filter_exact1] time that patient {patient_id} had a {output_name} output [time_filter_global1]?"}
+{"template": "what was the name of the diagnosis that patient {patient_id} [time_filter_exact1] received [time_filter_global1]?"}
+{"template": "Count the number of {note_name} documents for patient {patient_id} [time_filter_global1]."}
+{"template": "has_verb notes for patient {patient_id} mentioned {concept_name} [time_filter_global1]?"}
+{"template": "what is the specialty of the physician who performed a {procedure_name} procedure on patient {patient_id} [time_filter_global1]?"}
+{"template": "what are_verb the top [n_rank] conditions lasting more than 1 year among patients aged [age_group] [time_filter_global1]?"}
+{"template": "What is the identifier assigned to the diagnosis with status {condition_status_concept_id} during the most recent visit of patient {patient_id}?"}
+{"template": "Has patient {patient_id} had a {diagnosis_name} diagnosis that ended [time_filter_global1]?"}
+{"template": "What exact last time did diagnosis {diagnosis_name} end for patient {patient_id}?"}
+{"template": "In which unit was patient {patient_id} last diagnosed with {diagnosis_name} by provider {provider_id}?"}
+{"template": "What are the top [n_rank] source values for the diagnosis {diagnosis_name} with the status {condition_status} [time_filter_global1]?"}
+{"template": "What is the verbatim value of the first condition status for diagnosis {diagnosis_name} of patient {patient_id} since the last end of their condition {diagnosis_name} last month?"}
+{"template": "Compare the number of deaths caused by {diagnosis_name} among men aged 30's who previously received a {procedure_name} procedure before and after 2010."}
+{"template": "What is the most frequently used source code to record the death cause {death_cause} [time_filter_global1]?"}
+{"template": "What is the total number of registered medical devices for each type of device [time_filter_global1]?"}
+{"template": "Which patients under the age of {age} received a device between January 2121 and June 2121?"}
+{"template": "For each patient currently in the {care_unit} department, list the devices that were used for more than {days} days and stopped yesterday."}
+{"template": "Which medical devices were placed between 8:00 AM and 10:00 AM and then removed between 10:00 AM and 12:00 PM today?"}
+{"template": "Which device was removed after the discharge date of patient {patient_id} on the last hospital visit [time_filter_global1]?"}
+{"template": "What are the top [n_rank] production identifiers for device {device_name}?"}
+{"template": "What was the quantity used by provider {provider_id} during the [time_filter_within] use of device {device_name} for patient {patient_id}?"}
+{"template": "Does the source value {source_value} for device {device_name} always have the same OMOP source ID [time_filter_global1]?"}
+{"template": "How many patients born in {year} and diagnosed with condition {condition_name} for more than 4 months received a {drug_name} prescription lasting more than 20 days after {datetime}?"}
+{"template": "For the last {number} patients who underwent a {procedure_name} procedure after the last discontinuation of a {drug_name} drug treatment administered via route {route_name}, what were the date and reason for discontinuation?"}
+{"template": "What is the instruction written by doctor {provider_id} for the prescription of drug {drug_name} during the visit of patient {person_id} [time_filter_global1]?"}
+{"template": "What biological sample was collected during test {measurement_name} [time_filter_within] than the [time_filter_exact] diagnosis of condition {condition_name} for patient {person_id}?"}
+{"template": "At what stage is patient {person_id} in the progression of their current medical condition {condition_name}?"}
+{"template": "Were the parents or siblings of patient {person_id} diagnosed with condition {condition_name} [time_filter_within] after the patient's first diagnosis?"}

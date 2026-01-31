@@ -1,0 +1,796 @@
+{"question": "Tell me the icd-11 code for <CONDITION>37310363</CONDITION> in icd-10?"}
+{"question": "Tell me the prescriptions patient <PERSON_ID>4618965132</PERSON_ID> has received from the other department."}
+{"question": "What is vertical profile?"}
+{"question": "What's a good medicine to use for a <CONDITION>36717455</CONDITION> in the <CONDITION>45766050</CONDITION>?"}
+{"question": "Tell me the icd-11 code for <CONDITION>45766050</CONDITION> in icd-10?"}
+{"question": "What is the blood type of patient <PERSON_ID>4500356454715756250</PERSON_ID>?"}
+{"question": "Tell me all the tests that patient <PERSON_ID>118976392809</PERSON_ID> took in other department."}
+{"question": "What medications are given as antibiotics for patient <PERSON_ID>489490998272446</PERSON_ID>?"}
+{"question": "Transcribe audio feedback from patients about their hospital stay and treatment."}
+{"question": "What is the <DRUG>21127790</DRUG> dose recommended for patient <PERSON_ID>1065734670360900513</PERSON_ID>?"}
+{"question": "When does patient <PERSON_ID>30004902</PERSON_ID> get in the <PROCEDURE>8224899</PROCEDURE>?"}
+{"question": "What are the 10 most common side effects of <DRUG>711588</DRUG>?"}
+{"question": "Does patient <PERSON_ID>5350131003384163</PERSON_ID> have experience with overseas travel?"}
+{"question": "Tell me what kind of medication to use to relieve a <CONDITION>37310363</CONDITION> in <CONDITION>36519193</CONDITION>."}
+{"question": "What is the average number of standing tackles made by the patients whose last care unit was <CAREUNIT>38004270</CAREUNIT>?"}
+{"question": "What kind of blood patient <PERSON_ID>5753387128065316976</PERSON_ID> has."}
+{"question": "What's the effect of <DRUG>1308251</DRUG>?"}
+{"question": "What is the effect of the <DRUG>32834044</DRUG>?"}
+{"question": "Did patient <PERSON_ID>6286546457422030372</PERSON_ID> fill out the consent form for <PROCEDURE>2779573</PROCEDURE>?"}
+{"question": "Count the number of procedures with anesthesia durations over 2 hours that were performed on patients aged above 65."}
+{"question": "What is the precautionary measure following the <PROCEDURE>4164278</PROCEDURE>?"}
+{"question": "Did patient <PERSON_ID>43632620678303154</PERSON_ID> provide the results of the <MEASUREMENT>40763428</MEASUREMENT>?"}
+{"question": "What are the side effects of long-term administration of <DRUG>1742258</DRUG>?"}
+{"question": "What are the side effects of <DRUG>35412113</DRUG>?"}
+{"question": "If u have <CONDITION>605545</CONDITION>...what medicine should i use in <CONDITION>1075784</CONDITION>?"}
+{"question": "What is the place of birth of the patient who had the longest hospital admission?"}
+{"question": "Is patient <PERSON_ID>6114769255486634735</PERSON_ID> subject to a <MEASUREMENT>3037577</MEASUREMENT>?"}
+{"question": "Which physician was patient <PERSON_ID>5967211661343283</PERSON_ID> with when they visited the <CAREUNIT>38004275</CAREUNIT>?"}
+{"question": "What is the address of patient <PERSON_ID>6114769255486634735</PERSON_ID>."}
+{"question": "How long was <DRUG>7781472</DRUG> taking for patient <PERSON_ID>495799256294266578</PERSON_ID>?"}
+{"question": "Did patient <PERSON_ID>4079453165874359646</PERSON_ID> sign a <PROCEDURE>2779573</PROCEDURE> consent form?"}
+{"question": "What is the disinfection technique in a quarantine room?"}
+{"question": "Can you please tell me the address of patient <PERSON_ID>85412071481066206</PERSON_ID>?"}
+{"question": "Is a test from the family of <MEASUREMENT>4036044</MEASUREMENT> that patient <PERSON_ID>2041243612265</PERSON_ID> has had?"}
+{"question": "What is the phone number of the doctor in charge of patient <PERSON_ID>3856814790790267215</PERSON_ID>?"}
+{"question": "Which are the ten most recent papers on <CONDITION>434610</CONDITION>?"}
+{"question": "Do you think patient <PERSON_ID>7333484583531995140</PERSON_ID> has <CONDITION>36519193</CONDITION> in his or her family?"}
+{"question": "Count the number of patients who asked for a copy of their prescription while in hospital."}
+{"question": "Find the youngest female patient whose place of birth is in seattle."}
+{"question": "Which doctor (name) saw patient <PERSON_ID>5818133510542785</PERSON_ID> in the <CAREUNIT>38004275</CAREUNIT> last time?"}
+{"question": "What are the reimbursement standards for <MEASUREMENT>3965585</MEASUREMENT>?"}
+{"question": "What precautions should i take after a <PROCEDURE>4300757</PROCEDURE>?"}
+{"question": "When patient <PERSON_ID>9207599784681273</PERSON_ID> ends the <PROCEDURE>4179374</PROCEDURE> for the <PROCEDURE>2786472</PROCEDURE> in case of <CONDITION>4138456</CONDITION>?"}
+{"question": "What is the average date of death among patients who were deceased and were affiliated with sony records?"}
+{"question": "How long did patient <PERSON_ID>7333484583531995140</PERSON_ID> have to undergo <PROCEDURE>4300757</PROCEDURE> during the <PROCEDURE>4164278</PROCEDURE>?"}
+{"question": "What is the next <MEASUREMENT>3027018</MEASUREMENT> of patient <PERSON_ID>3748804592122</PERSON_ID>?"}
+{"question": "I need to know the phone number of patient <PERSON_ID>68000916618747607</PERSON_ID>'s guardian."}
+{"question": "List all <CAREUNIT>8883</CAREUNIT> stays during which input medication was administered by <PROVIDER_ID>2187407720534689396</PROVIDER_ID> at least once."}
+{"question": "How long did patient <PERSON_ID>5061169138442</PERSON_ID> receive <PROCEDURE>2779573</PROCEDURE> during <PROCEDURE>3654840</PROCEDURE>?"}
+{"question": "What is the phone number of patient <PERSON_ID>1003653397265841919</PERSON_ID>'s guardian?"}
+{"question": "What are the 10 most recent papers on <CONDITION>4112814</CONDITION>?"}
+{"question": "Is there a test that patient <PERSON_ID>12093874987</PERSON_ID> had been given?"}
+{"question": "When does patient <PERSON_ID>187860383257291</PERSON_ID> come into the <PROCEDURE>2750324</PROCEDURE>?"}
+{"question": "Tell me the number of patient <PERSON_ID>9285062278458811087</PERSON_ID>?"}
+{"question": "Who my patient was seeing when they last went to the <CAREUNIT>38004275</CAREUNIT>."}
+{"question": "Analyze the results of patient <PERSON_ID>934716597324559194</PERSON_ID>'s <MEASUREMENT>21491479</MEASUREMENT>?"}
+{"question": "What is the next <MEASUREMENT>40760142</MEASUREMENT> of patient <PERSON_ID>131321665335914878</PERSON_ID>?"}
+{"question": "What is the name of the drug that should not be administered during the <DRUG>21118796</DRUG>?"}
+{"question": "Which doctor physically examined patient <PERSON_ID>7879575208273553496</PERSON_ID> most recently at the <CAREUNIT>38004275</CAREUNIT>?"}
+{"question": "Do patient <PERSON_ID>4618965132</PERSON_ID> have a plan to visit other departments after his current hospital visit?"}
+{"question": "Does patient <PERSON_ID>9301781238180686</PERSON_ID> have a plan to visit after the current hospital visit, including other departments?"}
+{"question": "De what age is allowed to use <DRUG>711588</DRUG>?"}
+{"question": "Does patient <PERSON_ID>3594952092373185</PERSON_ID> have a history of <CONDITION>36556568</CONDITION> in his/her family?"}
+{"question": "What is the top 10 side effect of <DRUG>1308877</DRUG>?"}
+{"question": "What can be prescribed for the <CONDITION>316135</CONDITION> patient?"}
+{"question": "Does patient <PERSON_ID>2161216630450077381</PERSON_ID> have traveled abroad?"}
+{"question": "What is the most common operating system among asian patients?"}
+{"question": "What is the dose of the opioid prescribed for patient <PERSON_ID>3748804592122</PERSON_ID>?"}
+{"question": "What medications are being given to patient <PERSON_ID>8621568400785831320</PERSON_ID> for <DRUG>1818201</DRUG>?"}
+{"question": "Where can i find the phone number of patient <PERSON_ID>916851559508680</PERSON_ID>'s guardian?"}
+{"question": "Perform a factor analysis on 'chartevents' to identify underlying relationships between various 'itemid'."}
+{"question": "What do you think about the results of patient <PERSON_ID>517101686241972750</PERSON_ID>'s <MEASUREMENT>3027018</MEASUREMENT>?"}
+{"question": "Did patient <PERSON_ID>2041243612265</PERSON_ID> tell you the <MEASUREMENT>40760142</MEASUREMENT> result?"}
+{"question": "Is the type of blood of patient <PERSON_ID>63976724573375192</PERSON_ID>?"}
+{"question": "Have patient <PERSON_ID>3957228555522633604</PERSON_ID> ever suffered any side effects from <PROCEDURE>4164278</PROCEDURE>?"}
+{"question": "Dosage of medications from the <DRUG>40173098</DRUG> family prescribed for patient <PERSON_ID>873643486446280759</PERSON_ID>?"}
+{"question": "Well tell me what to do ahead of the <PROCEDURE>2786472</PROCEDURE>."}
+{"question": "Please inform me of the phone number of patient <PERSON_ID>7776408132511994203</PERSON_ID>'s guardian."}
+{"question": "What is the <MEASUREMENT>40763428</MEASUREMENT> my patient has."}
+{"question": "What side effects is longterm administration of <DRUG>19101299</DRUG>?"}
+{"question": "When does patient <PERSON_ID>6657709864320620215</PERSON_ID> stop being quarantined from the <CONDITION>4049211</CONDITION>?"}
+{"question": "Will patient <PERSON_ID>1836371946</PERSON_ID> get any additional <MEASUREMENT>7583096</MEASUREMENT>?"}
+{"question": "What is a drug that should not be administered during <PROCEDURE>4300757</PROCEDURE>?"}
+{"question": "Which male doctor did <PERSON_ID>32171795239034677</PERSON_ID> saw when they last went to <CAREUNIT>38004270</CAREUNIT>?"}
+{"question": "When does patient <PERSON_ID>1027943263163534509</PERSON_ID> stop being quarantined from the <CONDITION>318287</CONDITION>?"}
+{"question": "Has patient <PERSON_ID>6220777510338714</PERSON_ID> ever experienced a side effect during a <PROCEDURE>2779573</PROCEDURE>?"}
+{"question": "When does the <PROCEDURE>4056681</PROCEDURE> inside <PROCEDURE>68473810</PROCEDURE> end for patient <PERSON_ID>49657159274</PERSON_ID>?"}
+{"question": "Tell me all the tests that were taken by patient <PERSON_ID>3856814790790267215</PERSON_ID> in other departments."}
+{"question": "<DRUG>1832179</DRUG> what is its effect?"}
+{"question": "Count the number of patient who requested a copy of their prescription during their hospital stay."}
+{"question": "Did patient <PERSON_ID>356005856784469301</PERSON_ID> put in the consent form for a <PROCEDURE>3654840</PROCEDURE>."}
+{"question": "Will patient <PERSON_ID>49657159274</PERSON_ID> be provided with any additional <MEASUREMENT>1988607</MEASUREMENT>?"}
+{"question": "How long does patient <PERSON_ID>923282849016067</PERSON_ID>'s <PROCEDURE>4300757</PROCEDURE> end?"}
+{"question": "What is <DRUG>21116871</DRUG>? what is its effect?"}
+{"question": "What's the end date of patient <PERSON_ID>7247221959964538807</PERSON_ID>'s <PROCEDURE>46272660</PROCEDURE>?"}
+{"question": "When does patient <PERSON_ID>4234152243</PERSON_ID> stop being quarantined from the <CONDITION>132797</CONDITION>?"}
+{"question": "What are the side effects of <DRUG>35412113</DRUG> over a long period of time?"}
+{"question": "What is the longest duration of procedures performed on patients with this type of <CONDITION>37160363</CONDITION>?"}
+{"question": "Has patient <PERSON_ID>10039098</PERSON_ID> been provided with additional <MEASUREMENT>3022217</MEASUREMENT>?"}
+{"question": "Do you know what type of blood patient <PERSON_ID>495799256294266578</PERSON_ID> has?"}
+{"question": "Whats the code that works with icd-11 <CONDITION>37160824</CONDITION> in icd-10?"}
+{"question": "Does patient <PERSON_ID>6666521439321</PERSON_ID> have an appointment for <CAREUNIT>4150077</CAREUNIT> today?"}
+{"question": "Help me tell the name of the diagnosis patient <PERSON_ID>6666521439</PERSON_ID> received in the other department."}
+{"question": "When does patient <PERSON_ID>3493108529686372660</PERSON_ID> go to <PROCEDURE>2750324</PROCEDURE>?"}
+{"question": "What is the code in icd-11 <CONDITION>1244938</CONDITION> icd-10?"}
+{"question": "What kind of drugs are you giving patient <PERSON_ID>1065734670360900513</PERSON_ID> as <DRUG>590514</DRUG>?"}
+{"question": "What is the list of things to do before you go through the <PROCEDURE>2779573</PROCEDURE>?"}
+{"question": "What are the top five requesters of hematology tests this year?"}
+{"question": "Yo, can i use <DRUG>21127790</DRUG> from what age?"}
+{"question": "What is the name of the diagnosis that patient <PERSON_ID>3748804592122</PERSON_ID> received from the other department?"}
+{"question": "Does patient <PERSON_ID>4079453165874359646</PERSON_ID> have a past overseas travel experience?"}
+{"question": "What drugs are being administered to patient <PERSON_ID>548041303757658540495299</PERSON_ID> in the form of <DRUG>45776408</DRUG>?"}
+{"question": "Which drug can be prescribed for patients with <CONDITION>1075784</CONDITION> diagnosed?"}
+{"question": "When is patient <PERSON_ID>2161216630450077381</PERSON_ID> next <PROCEDURE>2786472</PROCEDURE>?"}
+{"question": "I want to know what the antibiotic is given to patient <PERSON_ID>4924550704026979905</PERSON_ID>."}
+{"question": "The last time patient <PERSON_ID>4252323938379886649</PERSON_ID> had something to take on a regular basis?"}
+{"question": "Do patients with alcohol use have longer hospital stays compared to those without?"}
+{"question": "What is the dose of the prescribed <DRUG>40175218</DRUG> for patient <PERSON_ID>1298364801782773</PERSON_ID>?"}
+{"question": "Where did she never go?"}
+{"question": "What is the code in icd-11 for upper <CONDITION>4112814</CONDITION> in icd-10?"}
+{"question": "Tell me the method of disinfection in a <PROCEDURE>4275142</PROCEDURE>?"}
+{"question": "Does patient <PERSON_ID>916851559508680</PERSON_ID> have any remaining test before hospital discharge?"}
+{"question": "I mean did patient <PERSON_ID>395982632653845924</PERSON_ID> report the <MEASUREMENT>40763428</MEASUREMENT> result?"}
+{"question": "What is the age restriction on <DRUG>40173098</DRUG>?"}
+{"question": "What is the reimbursement standard for <MEASUREMENT>3020891</MEASUREMENT>?"}
+{"question": "What is the dose of the prescribed opioid for patient <PERSON_ID>8031085410676876332</PERSON_ID>?"}
+{"question": "Did patient <PERSON_ID>68000916618747607</PERSON_ID> sign a consent form for <PROCEDURE>618821</PROCEDURE>."}
+{"question": "What's the best result of patient <PERSON_ID>3748804592122</PERSON_ID>'s last <MEASUREMENT>4036044</MEASUREMENT>?"}
+{"question": "When should patient <PERSON_ID>1836371946</PERSON_ID> visit the hospital next?"}
+{"question": "Call a medical laboratory to expedite test results."}
+{"question": "Did patient <PERSON_ID>3856814790790267215</PERSON_ID> fill out the consent form for <PROCEDURE>2779573</PROCEDURE>?"}
+{"question": "The phone number of patient <PERSON_ID>7247221959964538807</PERSON_ID> is."}
+{"question": "Does it have gender restrictions on <DRUG>21118796</DRUG>?"}
+{"question": "What is the drug to avoid during the <PROCEDURE>4179374</PROCEDURE>."}
+{"question": "Have patient <PERSON_ID>9697429503176622278</PERSON_ID> completed the consent form for the <PROCEDURE>4300757</PROCEDURE>?"}
+{"question": "What is the method of disinfection in the <CAREUNIT>8883</CAREUNIT>?"}
+{"question": "When patient <PERSON_ID>7879575208273553496</PERSON_ID> ends the <PROCEDURE>4300757</PROCEDURE> in case of <CONDITION>4030518</CONDITION>?"}
+{"question": "How many patients admitted this year reported no allergies?"}
+{"question": "Which drug can be prescribed for patients with <CONDITION>37312135</CONDITION> diagnosed?"}
+{"question": "When are <PROVIDER_ID>43276847687031</PROVIDER_ID> rounds and procedures?"}
+{"question": "Which are the types of antibiotics?"}
+{"question": "What is the ward id that patient <PERSON_ID>68000916618747607</PERSON_ID> may be admitted?"}
+{"question": "How long ago did patient <PERSON_ID>2041243612265</PERSON_ID> receive a medication that should be taken regularly?"}
+{"question": "Please inform me of all the prescriptions patient <PERSON_ID>449512254961891092</PERSON_ID> received in another department."}
+{"question": "I.e. what is the address of patient <PERSON_ID>7013639488412</PERSON_ID>?"}
+{"question": "Convert the <MEASUREMENT>40760142</MEASUREMENT> for subject <PERSON_ID>916851559508680</PERSON_ID> into hindi."}
+{"question": "What is the name of the <PROCEDURE>4275142</PROCEDURE>?"}
+{"question": "Can you please tell me the address of patient <PERSON_ID>4618965132</PERSON_ID>?"}
+{"question": "Do you think patient <PERSON_ID>137757925679865639</PERSON_ID> has any procedure appointment today?"}
+{"question": "What is the difference in the average number of hospital visits per year for patients based on whether their first child is male or female?"}
+{"question": "What month of the year is the antihistamine the most prescribed?"}
+{"question": "How patient <PERSON_ID>3324636809080938789</PERSON_ID>'s number is the doctor in charge?"}
+{"question": "What was the duration of the <PROCEDURE>2750324</PROCEDURE> for patient <PERSON_ID>1065734670360900513</PERSON_ID>?"}
+{"question": "Did patient <PERSON_ID>3744637156853</PERSON_ID> talk about the <MEASUREMENT>3037577</MEASUREMENT> result?"}
+{"question": "Has patient <PERSON_ID>4618965132</PERSON_ID> an appointment in another hospital department?"}
+{"question": "Did patient <PERSON_ID>1832753164987106308</PERSON_ID> sign a consent form for the <PROCEDURE>4275142</PROCEDURE>?"}
+{"question": "I would like to learn some tips on how to prepare for the <PROCEDURE>2004844</PROCEDURE>."}
+{"question": "Did patient <PERSON_ID>2219414084045702174</PERSON_ID> report the <MEASUREMENT>43533879</MEASUREMENT> result?"}
+{"question": "Inform me of all of the tests that patient <PERSON_ID>1003653397265841919</PERSON_ID> took in another department."}
+{"question": "What is the phone number of the doctor who is going to become responsible for patient <PERSON_ID>022334411506181311</PERSON_ID>?"}
+{"question": "What is the right dosage of the prescribed <DRUG>21118796</DRUG> for patient <PERSON_ID>2185246955166355889</PERSON_ID>?"}
+{"question": "What is the average time of wait in the <CAREUNIT>4150077</CAREUNIT>?"}
+{"question": "At what age did patient <PERSON_ID>7333484583531995140</PERSON_ID> get married?"}
+{"question": "The number of patients who requested a copy of their prescription during the hospital stays."}
+{"question": "What are the top ten side effects reported for drugs like <DRUG>19101299</DRUG>?"}
+{"question": "If so is there a <MEASUREMENT>43533729</MEASUREMENT> that patient <PERSON_ID>4252323938379886649</PERSON_ID> gets or will receive?"}
+{"question": "How many primary male physicians have been at the hospital since this year?"}
+{"question": "How do care unit choices in icus affect patient outcomes?"}
+{"question": "Has patient <PERSON_ID>4252323938379886649</PERSON_ID> an appointment at the other department?"}
+{"question": "What medicine does patient <PERSON_ID>4618965132</PERSON_ID> take after being prescribed by the other medical department of our hospital?"}
+{"question": "Can you list the address of patient <PERSON_ID>7776408132511994203</PERSON_ID>?"}
+{"question": "How long did it take to get an appointment for <PROCEDURE>4300757</PROCEDURE> for patient <PERSON_ID>3024811265145791153</PERSON_ID>?"}
+{"question": "Can i tell if patient <PERSON_ID>1965881833143059984</PERSON_ID> has <CONDITION>4884408</CONDITION> in hisher family?"}
+{"question": "Did patient <PERSON_ID>3651765018</PERSON_ID> tell you of that <MEASUREMENT>3007813</MEASUREMENT>?"}
+{"question": "Please take into account the number of patient who requested a copy of their prescription during their hospital stay."}
+{"question": "Does patient <PERSON_ID>6784310023562562405</PERSON_ID> have <CONDITION>36717455</CONDITION> that is part of her family?"}
+{"question": "What is the religion that has the most patients whose airport name is jfk?"}
+{"question": "Has patient <PERSON_ID>1553236252820857312</PERSON_ID> an appointment at the other department?"}
+{"question": "Have you ever had a test appointment of patient <PERSON_ID>1003653397265841919</PERSON_ID> tomorrow?"}
+{"question": "What kind of <DRUG>55344471</DRUG> is it given to patient <PERSON_ID>2185246955166355889</PERSON_ID>?"}
+{"question": "Does patient <PERSON_ID>934716597324559194</PERSON_ID> have some overseas travel history."}
+{"question": "What is patient <PERSON_ID>022334411506181311</PERSON_ID>'s companion's telephone number?"}
+{"question": "What are the operating systems of the patients who got admitted to the icu for the past 3 years?"}
+{"question": "When was the last time patient <PERSON_ID>7879575208273553496</PERSON_ID> had a medication which should be taken daily?"}
+{"question": "Show the patient ids, arrival times, and insurance types of patients admitted for <CONDITION>1076483</CONDITION> this year."}
+{"question": "What is capital amount compared to?"}
+{"question": "Can you list the address of patient <PERSON_ID>9788153137395771529</PERSON_ID>?"}
+{"question": "What is the history of immuno cancer drugs in the last 5 years?"}
+{"question": "What the code that refers to icd-11 for <CONDITION>4049417</CONDITION> in icd-10?"}
+{"question": "What types of anesthesia are most common in the <PROCEDURE>4300757</PROCEDURE>?"}
+{"question": "What's the protocol for <DRUG>2031099</DRUG>?"}
+{"question": "What is the outpatient schedule today for <PROVIDER_ID>413824354073036798</PROVIDER_ID>?"}
+{"question": "What is the telephone number of patient <PERSON_ID>10039098</PERSON_ID>'s companion?"}
+{"question": "I need the phone number of patient <PERSON_ID>495799256294266578</PERSON_ID> guardian."}
+{"question": "Call a medical supply company to order more <CAREUNIT>4150077</CAREUNIT> equipment."}
+{"question": "Do you think that <DRUG>21116871</DRUG> has side effects?"}
+{"question": "Are there any gender restrictions on the product <DRUG>2901893</DRUG>?"}
+{"question": "What's the phone number of the doctor responsible for patient <PERSON_ID>4373306535102355721</PERSON_ID>?"}
+{"question": "What is <PROVIDER_ID>2187407720534689396</PROVIDER_ID> outpatient schedule today?"}
+{"question": "Does patient <PERSON_ID>6082951626122164742</PERSON_ID> have an overseas history of travel?"}
+{"question": "Do you see any procedures scheduled for patient <PERSON_ID>70293897498309183987847983</PERSON_ID> today?"}
+{"question": "Has patient <PERSON_ID>4618965132</PERSON_ID> had an appointment in <CAREUNIT>4150077</CAREUNIT>?"}
+{"question": "What are the top 10 side effects reported for drug <DRUG>40173098</DRUG>?"}
+{"question": "What are the documents needed for the hospital discharge?"}
+{"question": "Which doctor did patient <PERSON_ID>3089541187583248</PERSON_ID> see to discuss their results when he or she last visited the <CAREUNIT>38004275</CAREUNIT>?"}
+{"question": "Has patient <PERSON_ID>6082951626122164742</PERSON_ID> ever had any additional other tests done."}
+{"question": "When will patient <PERSON_ID>76459672116618</PERSON_ID> next receive an <PROCEDURE>2004844</PROCEDURE>?"}
+{"question": "What is the ward id that allows patient <PERSON_ID>1922226694437355804</PERSON_ID> to be admitted?"}
+{"question": "What is the most common insurance type among patients with an address in dallas?"}
+{"question": "Does patient <PERSON_ID>9207599784681273</PERSON_ID> have an appointment in other department?"}
+{"question": "What is the correct dosage of the prescribed <DRUG>176802</DRUG> to patient <PERSON_ID>3493108529686372660</PERSON_ID>?"}
+{"question": "What was the duration of <DRUG>1742258</DRUG> for patient I am caring for?"}
+{"question": "What is the specimen quality of the most recent <MEASUREMENT>40765812</MEASUREMENT> done for patient <PERSON_ID>15808057134751203</PERSON_ID>?"}
+{"question": "Tell me of the tests patient <PERSON_ID>916851559508680</PERSON_ID> should have taken in <CAREUNIT>70196273</CAREUNIT>."}
+{"question": "What are the top ten side effects reported for drugs like <DRUG>19101299</DRUG> in 07-2020?"}
+{"question": "What is the average time of delay of appointments <CAREUNIT>4150077</CAREUNIT>?"}
+{"question": "I mean, what kinds of side effects does <DRUG>711588</DRUG> have?"}
+{"question": "What is the dosage of a drug from the <DRUG>21127790</DRUG> family prescribed for patient <PERSON_ID>1832753164987106308</PERSON_ID>?"}
+{"question": "When does patient <PERSON_ID>449512254961891092</PERSON_ID> end his/her <PROCEDURE>42536500</PROCEDURE>."}
+{"question": "What are the precautions that are incurred after undergoing a <PROCEDURE>46272660</PROCEDURE>?"}
+{"question": "I am curious what the protocols for the drugs that work to treat <CONDITION>605545</CONDITION>."}
+{"question": "Is patient <PERSON_ID>7767928252036371506</PERSON_ID> in the family of a person with <DEVICE>45768171</DEVICE>?"}
+{"question": "What medications are being given to patient <PERSON_ID>4618965132</PERSON_ID> for sedation?"}
+{"question": "What's the ward id patient <PERSON_ID>1027943263163534509</PERSON_ID> can go to?"}
+{"question": "Has patient <PERSON_ID>2645691983</PERSON_ID> an appointment in <CAREUNIT>8883</CAREUNIT>?"}
+{"question": "Show the average age of patients with a female first child."}
+{"question": "Is there a drug that could be prescribed to treat <CONDITION>4138456</CONDITION>."}
+{"question": "What do the precautions be after the <PROCEDURE>4179374</PROCEDURE>?"}
+{"question": "Does patient <PERSON_ID>12093874987</PERSON_ID> get <MEASUREMENT>7604405</MEASUREMENT>?"}
+{"question": "What are the languages spoken by patients who married before age 30?"}
+{"question": "Is patient <PERSON_ID>8787497926201291697</PERSON_ID> available for a <MEASUREMENT>43533729</MEASUREMENT> today?"}
+{"question": "Is patient <PERSON_ID>82578754713342872</PERSON_ID> subject to <MEASUREMENT>7983389</MEASUREMENT>?"}
+{"question": "The patient who requested a copy of their prescription during their hospital stay counts."}
+{"question": "What doctor did patient <PERSON_ID>4398308024184711278</PERSON_ID> see in person (bedside) at last in <CAREUNIT>38004270</CAREUNIT>?"}
+{"question": "What is <DRUG>2031099</DRUG>? what is its effect?"}
+{"question": "What would be the normal result for patient <PERSON_ID>6666521439</PERSON_ID>'s <PROCEDURE>4300757</PROCEDURE>?"}
+{"question": "What's up with the single rooms now?"}
+{"question": "How long does <PROCEDURE>4164278</PROCEDURE> take for patient <PERSON_ID>8484400133089324627</PERSON_ID>?"}
+{"question": "Read out the short title of icd9 code <CONCEPT>3153451</CONCEPT>."}
+{"question": "What is the drug name that should not be administered during the <PROCEDURE>2004844</PROCEDURE>?"}
+{"question": "What is the adresse of patient <PERSON_ID>68000916618747607</PERSON_ID>?"}
+{"question": "What are the docs u have to have to get discharged from hospital?"}
+{"question": "Can you list the side effects of taking <DRUG>590514</DRUG>?"}
+{"question": "How are certain word phrased?"}
+{"question": "What is the gender of the first child of subject <PERSON_ID>80980655938741</PERSON_ID>?"}
+{"question": "What is the average age of the first child for patients with <CONDITION>92022158</CONDITION>?"}
+{"question": "The <MEASUREMENT>3020891</MEASUREMENT> result of patient_id is ready?"}
+{"question": "When will patient <PERSON_ID>495799256294266578</PERSON_ID> next go to the hospital?"}
+{"question": "What are the top five drug manufacturers based on the total number of prescriptions this year?"}
+{"question": "What is the phone number of patient <PERSON_ID>6819106907993465128</PERSON_ID>'s companion?"}
+{"question": "What is the earliest visit of patient <PERSON_ID>15808057134751203</PERSON_ID> to other departments?"}
+{"question": "When will patient <PERSON_ID>1065734670360900513</PERSON_ID> have their next <PROCEDURE>4976984</PROCEDURE>?"}
+{"question": "How many operating rooms exist right now?"}
+{"question": "If so what is the phone number of patient <PERSON_ID>8022306</PERSON_ID>'s guardian?"}
+{"question": "What kind of rooms are available right now?"}
+{"question": "What is the median age of the first child among patients who were admitted last month?"}
+{"question": "Tell me all the tests that patient <PERSON_ID>15808057134751203</PERSON_ID> in other departments carried out."}
+{"question": "How many patients above age 60 speak russian as their alternative language?"}
+{"question": "Which medications are administered as <DRUG>1308877</DRUG> to patient <PERSON_ID>137757925679865639</PERSON_ID>?"}
+{"question": "What side effects does <DRUG>590514</DRUG> have?"}
+{"question": "Give me all the distances of the patients who went into the <CAREUNIT>38004270</CAREUNIT>."}
+{"question": "When was back to godhead written?"}
+{"question": "Which performing physicians were involved in procedures for patients admitted via <CAREUNIT>8883</CAREUNIT>?"}
+{"question": "What medication can be prescribed to patients who are diagnosed with <CONDITION>4049417</CONDITION>?"}
+{"question": "What are the most common side effects attributed to <DRUG>2031099</DRUG>?"}
+{"question": "Has patient <PERSON_ID>3651765018</PERSON_ID> ever experienced a side effect during a <PROCEDURE>6077617</PROCEDURE>?"}
+{"question": "What is the average area size of the care units in the icu?"}
+{"question": "Which doctor were this patient seen when he or she last visited the <CAREUNIT>38004270</CAREUNIT>?"}
+{"question": "When does patient <PERSON_ID>85412071481066206</PERSON_ID> get his or her <PROCEDURE>2750324</PROCEDURE> finished?"}
+{"question": "What is the average billing amount for patients with <CONDITION>37161253</CONDITION> this month?"}
+{"question": "When will patient <PERSON_ID>68000916618747607</PERSON_ID> have his next <PROCEDURE>46272660</PROCEDURE>?"}
+{"question": "What is the type of blood patient <PERSON_ID>5967211661343283</PERSON_ID> has."}
+{"question": "What is <DRUG>19041823</DRUG>'s side effect?"}
+{"question": "When was the last time that patient <PERSON_ID>873643486446280759</PERSON_ID> had a medication that was regularly taken?"}
+{"question": "What was the duration of the second step of the <PROCEDURE>4179374</PROCEDURE> for patient <PERSON_ID>495799256294266578</PERSON_ID>?"}
+{"question": "Has patient <PERSON_ID>5783834043069543</PERSON_ID> had a plan to visit after the current hospital visit, including other departments?"}
+{"question": "How is disinfection performed in the <CAREUNIT>4150077</CAREUNIT>?"}
+{"question": "When was the last time that a medication that should be taken regularly was had by patient <PERSON_ID>8031085410676876332</PERSON_ID>?"}
+{"question": "Has patient <PERSON_ID>2645691983</PERSON_ID> a plan to visit after the hospital visit, including other departments?"}
+{"question": "Can you please tell me the name of the diagnosis that patient <PERSON_ID>187860383257291</PERSON_ID> received from the other department?"}
+{"question": "What is the list of ten most recent papers on <CONDITION>605545</CONDITION>?"}
+{"question": "Tell me the most recent paper on <CONDITION>37161166</CONDITION>?"}
+{"question": "Haben patient <PERSON_ID>6657709864320620215</PERSON_ID> reported the <MEASUREMENT>3025315</MEASUREMENT> result?"}
+{"question": "List the passwords for the patients in the <CAREUNIT>38004275</CAREUNIT> last month."}
+{"question": "What is today's outpatient schedule for <PROVIDER_ID>10928308</PROVIDER_ID>?"}
+{"question": "What was his first attempt?"}
+{"question": "It is regulated by gender on <DRUG>19101299</DRUG> (<DRUG_ROUTE>4156707</DRUG_ROUTE>)."}
+{"question": "I need to know if there is any gender restraint on <DRUG>1308251</DRUG>."}
+{"question": "Tell me what medicine to use in <CONDITION>40481043</CONDITION> patients to relieve a <CONDITION>36526736</CONDITION>."}
+{"question": "Has patient <PERSON_ID>6114769255486634735</PERSON_ID> had any additional <MEASUREMENT>40765812</MEASUREMENT> performed on him?"}
+{"question": "Do you know the ward id of patient <PERSON_ID>517101686241972750</PERSON_ID> to which they are admitted?"}
+{"question": "Which will be the result of patient's last <MEASUREMENT>43533879</MEASUREMENT>?"}
+{"question": "Did patient <PERSON_ID>7879575208273553496</PERSON_ID> record the result of <MEASUREMENT>1062764</MEASUREMENT>?"}
+{"question": "What are the drugs being given to patient <PERSON_ID>3856814790790267215</PERSON_ID> as <DRUG>21127790</DRUG>?"}
+{"question": "Is the <PROCEDURE>4056681</PROCEDURE> result of <PERSON_ID>2185246955166355889</PERSON_ID> ready?"}
+{"question": "And when does patient <PERSON_ID>1027943263163534509</PERSON_ID> go into the administration of <PROCEDURE>4275142</PROCEDURE>?"}
+{"question": "Will patient <PERSON_ID>4529967851353207</PERSON_ID> get any additional <MEASUREMENT>1988607</MEASUREMENT>?"}
+{"question": "What is the checklist you need to follow in advance of <PROCEDURE>2779573</PROCEDURE>?"}
+{"question": "Tell me all the tests patient <PERSON_ID>82578754713342872</PERSON_ID> took in other departments."}
+{"question": "Wanna the last time that patient <PERSON_ID>4054702097524803546</PERSON_ID> had a medication that should be taken regularly?"}
+{"question": "Does patient <PERSON_ID>022334411506181311</PERSON_ID> have a travel history from overseas?"}
+{"question": "When did michael laudrup start playing with fc barcelona?"}
+{"question": "What was the average time of delay of appointments in the <CAREUNIT>8883</CAREUNIT>?"}
+{"question": "What are the most frequently prescribed drug colors for patients over 60?"}
+{"question": "Does patient <PERSON_ID>80980655938741</PERSON_ID> have a history of <CONDITION>318800</CONDITION> in his/her family?"}
+{"question": "What is the reimbursement standard for <PROCEDURE>4179374</PROCEDURE>?"}
+{"question": "What precautions should i take after a <PROCEDURE>4300757</PROCEDURE> for <CONDITION>730981029093</CONDITION>?"}
+{"question": "Which doctor did the patient see last when <CAREUNIT>38004270</CAREUNIT>?"}
+{"question": "I need the phone number of patient <PERSON_ID>2182317932289672</PERSON_ID> guardian."}
+{"question": "Play energetic music for a physical therapy session."}
+{"question": "What is the location of the hospital that admitted the most patients with <CONDITION>37161166</CONDITION>?"}
+{"question": "What was the duration of <PROCEDURE>3654840</PROCEDURE> for patient <PERSON_ID>5783834043069543</PERSON_ID>, measured from incision time to closure time?"}
+{"question": "What is the most common year among patients who are not dead and are affiliated with def jam records?"}
+{"question": "Did patient <PERSON_ID>49657159274</PERSON_ID> do a consent to a <PROCEDURE>2779573</PROCEDURE>?"}
+{"question": "Is the <PROCEDURE>9663416</PROCEDURE> result of <PERSON_ID>9179311870179794848</PERSON_ID> ready?"}
+{"question": "I want to know the ward id that patient <PERSON_ID>8484400133089324627</PERSON_ID> can go in and get in?"}
+{"question": "When was the last time that a medication that should be taken regularly was had by patient <PERSON_ID>517101686241972750</PERSON_ID>?"}
+{"question": "What are the drugs given as <DRUG>40173098</DRUG> to patient <PERSON_ID>7969169319838527</PERSON_ID>?"}
+{"question": "Which of these types of painting was more likely to have been produced by a northern renaissance?"}
+{"question": "What are the distances of patients with medicaid?"}
+{"question": "What is the time of the next <PROCEDURE>4164278</PROCEDURE> for patient <PERSON_ID>6657709864320620215</PERSON_ID>?"}
+{"question": "Do you think patient <PERSON_ID>12093874987</PERSON_ID> may have a family history of any diseases?"}
+{"question": "What train goes to the ebt?"}
+{"question": "Do you know the ward id of patient <PERSON_ID>1553236252820857312</PERSON_ID> to which they are admitted?"}
+{"question": "Suggest the best post-operative care for patients who had a <PROCEDURE>2004844</PROCEDURE>."}
+{"question": "Does patient <PERSON_ID>2542769889107660</PERSON_ID> have a travel history to another country?"}
+{"question": "Tell me the dose of an opioid prescribed to patient <PERSON_ID>85412071481066206</PERSON_ID>?"}
+{"question": "Whats the phone number of the doctor who is taking care of patient <PERSON_ID>4424182300748163057</PERSON_ID>."}
+{"question": "What is the side effect of <DRUG>43833975</DRUG>?"}
+{"question": "How do i take precaution after the <PROCEDURE>4056681</PROCEDURE>?"}
+{"question": "What is the type of blood that patient <PERSON_ID>5753387128065316976</PERSON_ID> has?"}
+{"question": "So, when is the earliest patient <PERSON_ID>3552656871579492299</PERSON_ID> is going to come in the hospital?"}
+{"question": "What kind of medicine does patient <PERSON_ID>3493108529686372660</PERSON_ID> take when they get a prescription from another hospital?"}
+{"question": "Is the type of blood of patient <PERSON_ID>4079453165874359646</PERSON_ID>?"}
+{"question": "I want to know the reimbursement standard for <PROCEDURE>2779573</PROCEDURE>."}
+{"question": "What medications are given as sedatives for patient <PERSON_ID>2161216630450077381</PERSON_ID>?"}
+{"question": "Did patient <PERSON_ID>529967851353207</PERSON_ID> sign a consent form for a <PROCEDURE>2750324</PROCEDURE>?"}
+{"question": "What kind of blood patient <PERSON_ID>8484400133089324627</PERSON_ID> has."}
+{"question": "What is the name of the medication which should not be administered during the <PROCEDURE>4275142</PROCEDURE> treatment?"}
+{"question": "Does patient <PERSON_ID>30004902</PERSON_ID> have a report of <CONDITION>40481043</CONDITION> in his / her family?"}
+{"question": "Did patient <PERSON_ID>131321665335914878</PERSON_ID> give the result from <CONDITION>4049417</CONDITION>?"}
+{"question": "Navigate to the <CAREUNIT>38004269</CAREUNIT> from the main parking area."}
+{"question": "How many operating rooms is there now?"}
+{"question": "Has patient <PERSON_ID>131321462355119848</PERSON_ID> a plan for another hospital visit after the current hospital visit, including other departments?"}
+{"question": "Translate the patient's insurance for subject <PERSON_ID>022334411506181311</PERSON_ID> into greek."}
+{"question": "What month of the year are the most antihistamines prescribed?"}
+{"question": "If patient <PERSON_ID>8022306</PERSON_ID> has any plans to come back after the hospital stay at all other departments?"}
+{"question": "Does patient <PERSON_ID>822829783874420</PERSON_ID> have any other left?"}
+{"question": "How old is the age limit <DRUG>1366698</DRUG> is ok?"}
+{"question": "What relationship are jessie and janet?"}
+{"question": "Does <DRUG>658674</DRUG> give you side effects?"}
+{"question": "Did patient <PERSON_ID>6344268806518697756</PERSON_ID> talk about the <MEASUREMENT>3027018</MEASUREMENT> result?"}
+{"question": "What is the telephone number of patient <PERSON_ID>6499141454785291600</PERSON_ID>'s guardian?"}
+{"question": "What is a checklist before <PROCEDURE>2750324</PROCEDURE>?"}
+{"question": "What precautions should you follow after the <PROCEDURE>3654840</PROCEDURE> procedure?"}
+{"question": "Does patient <PERSON_ID>3089541187583248</PERSON_ID> have an appointment for any test today?"}
+{"question": "What is the name of the medication which should not be administered during the <MEASUREMENT>6338459</MEASUREMENT> treatment?"}
+{"question": "From what age is <DRUG>21118796</DRUG> permitted to be used?"}
+{"question": "Does patient <PERSON_ID>82578754713342872</PERSON_ID> have a family history of <CONDITION>43530818</CONDITION>?"}
+{"question": "Does patient <PERSON_ID>2443412375322</PERSON_ID> have a past overseas travel experience?"}
+{"question": "What are the top 10 side effects reported for drug <DRUG>1308251</DRUG>?"}
+{"question": "The name of the diagnosis received by patient <PERSON_ID>2185246955166355889</PERSON_ID> at the other department."}
+{"question": "Do patient <PERSON_ID>489490998272446</PERSON_ID> have a plan to visit other departments after his current hospital visit?"}
+{"question": "What are the record companies that muslim patients are affiliated with?"}
+{"question": "What is the adresse of patient <PERSON_ID>6499141454785291600</PERSON_ID>?"}
+{"question": "What is the id of the ward where patient <PERSON_ID>1812676148971537926</PERSON_ID> can be admitted?"}
+{"question": "What are the latest guidelines for managing <CAREUNIT>4150077</CAREUNIT> patients with <CONDITION>4112814</CONDITION>?"}
+{"question": "What is the length of time patient <PERSON_ID>5753387128065316976</PERSON_ID> had to undergo <PROCEDURE>2750324</PROCEDURE>?"}
+{"question": "Have patient <PERSON_ID>94435332</PERSON_ID>s ever suffered any side effects from <PROCEDURE>2721154</PROCEDURE>?"}
+{"question": "What test is patient <PERSON_ID>517101686241972750</PERSON_ID> going to have today?"}
+{"question": "Does patient <PERSON_ID>27565635</PERSON_ID> have a <MEASUREMENT>1176291</MEASUREMENT> that they got?"}
+{"question": "Where can i find a reimbursement standard for <PROCEDURE>4300757</PROCEDURE>?"}
+{"question": "Is there a <MEASUREMENT>3027018</MEASUREMENT> that was given to patient <PERSON_ID>7013639488412</PERSON_ID>?"}
+{"question": "Which prescription shows the greatest difference in average organism growth rates before and after?"}
+{"question": "What are the singer names of the patients with medicaid?"}
+{"question": "Can you explain to me what medication you may be using to relieve a <CONDITION>36519193</CONDITION> in <CONDITION>3794986</CONDITION> people?"}
+{"question": "Who was the last doctor that patient <PERSON_ID>2167816630450077</PERSON_ID> saw at the <CAREUNIT>581458</CAREUNIT>?"}
+{"question": "Did he find a person?"}
+{"question": "I.e. what is the address of patient <PERSON_ID>7767928252036371506</PERSON_ID>?"}
+{"question": "List the most frequent diagnoses for elderly patients with a female next of kin."}
+{"question": "Which primary physician has the patient with the highest hospital admission cost?"}
+{"question": "Do you know what type of blood patient <PERSON_ID>1359228978448708169</PERSON_ID> has?"}
+{"question": "Whose phone number is the phone number of patient <PERSON_ID>2167816630450077</PERSON_ID>'s guardian?"}
+{"question": "Whats the best outcome of the <PROCEDURE>2004844</PROCEDURE> of patient <PERSON_ID>8105229931</PERSON_ID>?"}
+{"question": "Which method of <PROCEDURE>42536500</PROCEDURE> is in the <CAREUNIT>38004269</CAREUNIT>?"}
+{"question": "Is patient <PERSON_ID>4252323938379886649</PERSON_ID> in the family of a person with <CONDITION>22938529</CONDITION>?"}
+{"question": "Tell me of the tests patient <PERSON_ID>9757606394417608173</PERSON_ID> has taken in the other department."}
+{"question": "Does patient <PERSON_ID>822829783874420</PERSON_ID> have a history of travelling overseas?"}
+{"question": "What are the top 5 drugs most frequently prescribed at recommended dose values?"}
+{"question": "What is the percentage of procedures that involved any type of anesthesia?"}
+{"question": "Tell me about the type of insulin that will act fast."}
+{"question": "So tell me what to do before you go for <PROCEDURE>4056681</PROCEDURE>."}
+{"question": "Did patient <PERSON_ID>012038138372661469</PERSON_ID> sign a <PROCEDURE>4179374</PROCEDURE> form?"}
+{"question": "Does patient <PERSON_ID>118976392809</PERSON_ID> have a trip history overseas?"}
+{"question": "Does it have gender restrictions on <DRUG>2031099</DRUG>?"}
+{"question": "The phone number of patient <PERSON_ID>6657709864320620215</PERSON_ID>'s companion is?"}
+{"question": "What precautions should you follow after the <PROCEDURE>4300757</PROCEDURE>?"}
+{"question": "Do you know what type of blood patient <PERSON_ID>124440108566422211</PERSON_ID> has?"}
+{"question": "What kind of drugs do they use to treat patient <PERSON_ID>1922226694437355804</PERSON_ID> like <DRUG>590514</DRUG>?"}
+{"question": "Does patient <PERSON_ID>7333484583531995140</PERSON_ID> have a traveling history abroad?"}
+{"question": "Does patient <PERSON_ID>816136898324736789</PERSON_ID> have any plans for <CAREUNIT>38004269</CAREUNIT> to visit after the current hospital visit?"}
+{"question": "Which doctor did patient <PERSON_ID>60654492479303822</PERSON_ID> see in the <CAREUNIT>38004269</CAREUNIT>?"}
+{"question": "Can you please explain the telephone number of the doctor who is in charge of patient <PERSON_ID>7776408132511994203</PERSON_ID>?"}
+{"question": "Is patient <PERSON_ID>2277671307213519503</PERSON_ID> subject to a test for <CONDITION>4198624</CONDITION>?"}
+{"question": "Are you letting me know if patient <PERSON_ID>2041243612265</PERSON_ID> is subject to <MEASUREMENT>3025315</MEASUREMENT>?"}
+{"question": "What about the single rooms which are now out there?"}
+{"question": "When is the earliest of patient <PERSON_ID>49657159274</PERSON_ID>'s next visit to <CAREUNIT>581458</CAREUNIT>?"}
+{"question": "What's the effect of <DRUG>43833975</DRUG>?"}
+{"question": "Tell me the type of rapid-acting insulin."}
+{"question": "What type of medication can be prescribed for patients who have been diagnosed with <CONDITION>132797</CONDITION>?"}
+{"question": "Please describe what medication you might be able to use to relieve a headache in <CONDITION>4121328</CONDITION> patients."}
+{"question": "Who will patient <PERSON_ID>873643486446280759</PERSON_ID> see when they next go to <CAREUNIT>38004270</CAREUNIT>?"}
+{"question": "Tell me what kind of fast acting insulin is it?"}
+{"question": "When does patient <PERSON_ID>1836371946</PERSON_ID> go into the <PROCEDURE>42536500</PROCEDURE>?"}
+{"question": "What is the correct dosage of the prescribed <DRUG>40173098</DRUG> to patient <PERSON_ID>70293897498309183987847983</PERSON_ID>?"}
+{"question": "Is there any side effects to <DRUG>2901893</DRUG>?"}
+{"question": "Has patient <PERSON_ID>6819106907993465128</PERSON_ID> ever had any complication when undergoing a <PROCEDURE>4762592</PROCEDURE>?"}
+{"question": "Does patient <PERSON_ID>6819106907993465128</PERSON_ID> have any history of <CONDITION>36556568</CONDITION> in his / her family?"}
+{"question": "What is the average pet age for patients with <CONDITION>37310363</CONDITION>?"}
+{"question": "What type of medication can be prescribed for patients who have been diagnosed with <CONDITION>4030518</CONDITION>?"}
+{"question": "What's up with the top 10 most recent papers on <CONDITION>602090</CONDITION>?"}
+{"question": "Can you tell me the phone number of the doctor who is in charge of patient <PERSON_ID>1553236252820857312</PERSON_ID>?"}
+{"question": "Tell me the type of blood of patient <PERSON_ID>6333223435366125024</PERSON_ID>?"}
+{"question": "I would like to know the type of <DRUG>35412113</DRUG> that works so fast."}
+{"question": "What are the top 5 procedures with the longest average <PROCEDURE>45747572</PROCEDURE> duration?"}
+{"question": "Tell me the address of patient <PERSON_ID>49657159274</PERSON_ID> and why?"}
+{"question": "What kind of drugs are you giving patient <PERSON_ID>8022306</PERSON_ID> as antibiotics?"}
+{"question": "Cluster patients based on the cost of their medical events."}
+{"question": "What is the average period of delay between appointments in the <CAREUNIT>2685106</CAREUNIT>?"}
+{"question": "What is the name of the diagnosis that patient <PERSON_ID>72409717</PERSON_ID> received from the other department?"}
+{"question": "Does patient <PERSON_ID>6220777510338714</PERSON_ID> have previous overseas travel?"}
+{"question": "Tell me the type of insulin that will work fast."}
+{"question": "What is the average salary for the patients who were admitted to the <CAREUNIT>38004275</CAREUNIT> as their last care unit?"}
+{"question": "What is <PROVIDER_ID>48983092801</PROVIDER_ID>'s outpatient schedule today?"}
+{"question": "<PROCEDURE>2779573</PROCEDURE> when is the next <PROCEDURE>4179374</PROCEDURE> of patient <PERSON_ID>7013639488412</PERSON_ID>?"}
+{"question": "What is the residency status of the patient with the longest hospital stay?"}
+{"question": "What is the age limit of the drug <DRUG>1742258</DRUG>?"}
+{"question": "What month of the year does antihistamines the most prescribe?"}
+{"question": "What is the phone number of the doctor who is patient <PERSON_ID>510338714</PERSON_ID>'s managing doctor?"}
+{"question": "What is the average distance of the patients who were born between 2070 and after 2100?"}
+{"question": "What is the average area size of the patients who can speak english?"}
+{"question": "What is today's outpatient schedule for <PROVIDER_ID>413824354073036798</PROVIDER_ID>?"}
+{"question": "Has patient <PERSON_ID>187860383257291</PERSON_ID> had any additional <MEASUREMENT>3014875</MEASUREMENT> performed on him?"}
+{"question": "Has patient <PERSON_ID>46975054681012</PERSON_ID> experienced any side effects during a <PROCEDURE>4300757</PROCEDURE>?"}
+{"question": "If patient <PERSON_ID>6220777510338714</PERSON_ID> is getting an <PROCEDURE>3053573</PROCEDURE>... when will it be next?"}
+{"question": "Can you point to a <MEASUREMENT>3020891</MEASUREMENT> that patient <PERSON_ID>6333223435366125024</PERSON_ID> received?"}
+{"question": "Please describe the type of insulin that acts rapidly."}
+{"question": "How many operating rooms are there now in the <CAREUNIT>38004270</CAREUNIT>?"}
+{"question": "Develop a meal planning system for patients with <CONDITION>45766050</CONDITION>."}
+{"question": "What are the names of the advisors of the patients admitted to the <CAREUNIT>581458</CAREUNIT> yesterday?"}
+{"question": "Do you think <DRUG>59931407</DRUG> is a gender restricted drug?"}
+{"question": "What are the dates of leaving the university for the patients who went into the hospital more than once this year?"}
+{"question": "What are the types of antibiotics?"}
+{"question": "Which procedure has the shortest time between a patient's last hospital discharge and their next expected admission on average?"}
+{"question": "Where could the video be found?"}
+{"question": "Did patient <PERSON_ID>1003653397265841919</PERSON_ID> give a <MEASUREMENT>40765812</MEASUREMENT> result?"}
+{"question": "What was the duration of the first part of <PROCEDURE>4300757</PROCEDURE> for patient <PERSON_ID>4529967851353207</PERSON_ID>?"}
+{"question": "What are the 10 most recent papers on <CONDITION>132797</CONDITION>?"}
+{"question": "What is the ward id that patient <PERSON_ID>916851559508680</PERSON_ID> can be admitted?"}
+{"question": "What is the dose of the prescribed opioid for patient <PERSON_ID>70293897498309183987847983</PERSON_ID>?"}
+{"question": "Was patient <PERSON_ID>12844908</PERSON_ID> signed a <PROCEDURE>4164278</PROCEDURE> consent form?"}
+{"question": "What is the code which corresponds to the icd-11 for <CONCEPT>41425009</CONCEPT> in icd-10?"}
+{"question": "How do i find the phone number of the doctor in charge of patient <PERSON_ID>61678205</PERSON_ID>?"}
+{"question": "The phone number of patient <PERSON_ID>3592855240882</PERSON_ID> is?"}
+{"question": "What is the average pet age of patients who were in <CAREUNIT>8883</CAREUNIT> for more than 5 days?"}
+{"question": "Whats the badest outcome of the <PROCEDURE>7146384</PROCEDURE> of patient <PERSON_ID>15808057134751203</PERSON_ID>?"}
+{"question": "Which month of the year is the most prescribed antihistamines for?"}
+{"question": "I want to know what is the age limit of <DRUG>40173098</DRUG> (<DRUG_ROUTE>762840</DRUG_ROUTE>)."}
+{"question": "What is the ward identification of patient <PERSON_ID>9207599784681273</PERSON_ID> able to be admitted to?"}
+{"question": "What is the protocol of <DRUG>1742258</DRUG>."}
+{"question": "Does patient <PERSON_ID>5783834043069543</PERSON_ID> have any appointment to any surgery today?"}
+{"question": "What doctor did patient <PERSON_ID>7879575208273553496</PERSON_ID> see at last in the <CAREUNIT>6024539</CAREUNIT>?"}
+{"question": "Do patient <PERSON_ID>1298364801782773</PERSON_ID> have a appointment in another department?"}
+{"question": "What are the top five most expensive procedures for anthem-insured patients this year?"}
+{"question": "Tell me the details of the tests performed by patient <PERSON_ID>5783834043069543</PERSON_ID> in the other department."}
+{"question": "Are you letting me know if patient <PERSON_ID>6657709864320620215</PERSON_ID> is subject to <MEASUREMENT>3027018</MEASUREMENT>?"}
+{"question": "What is the telephone number of the doctor who cares for patient <PERSON_ID>12844908</PERSON_ID>?"}
+{"question": "Segment hospital admissions by <CONCEPT>2910007</CONCEPT>, <CONCEPT>41425009</CONCEPT>, and <CONCEPT>3370926</CONCEPT>."}
+{"question": "Does patient <PERSON_ID>529967851353207</PERSON_ID> have a family history of <CONDITION>605545</CONDITION>?"}
+{"question": "What is the outpatient schedule today for <PROVIDER_ID>43276847687031</PROVIDER_ID>?"}
+{"question": "What is the age of <DRUG>40173098</DRUG> is permissible to be used?"}
+{"question": "I got a question...and is it a gender limit on <DRUG>1308251</DRUG>?"}
+{"question": "Has patient <PERSON_ID>449512254961891092</PERSON_ID> ever experienced any side effects while receiving a <PROCEDURE>42536500</PROCEDURE>?"}
+{"question": "What are the steps after the <PROCEDURE>2750324</PROCEDURE>?"}
+{"question": "Tell me the <MEASUREMENT>40763992</MEASUREMENT> of patient?"}
+{"question": "How did engineers try to solve the problem?"}
+{"question": "What antibiotic is prescribed to patient <PERSON_ID>7776408132511994203</PERSON_ID>?"}
+{"question": "Is there any side effects to <DRUG>44026220</DRUG>?"}
+{"question": "Are there identical passwords for more than two distinct patients who are older than 60? if so, list them."}
+{"question": "Analyze the outcome of the <PROCEDURE>43432552</PROCEDURE> of patient <PERSON_ID>2645691983</PERSON_ID>?"}
+{"question": "What are the worst distribution routes for drugs prescribed to patients aged 65 or older?"}
+{"question": "Which drug manufacturer is most frequently prescribed for patients under 18?"}
+{"question": "It is permitted to be used in <DRUG>19101299</DRUG> from what age?"}
+{"question": "What doctor did patient <PERSON_ID>5753387128065316976</PERSON_ID> see when he or she visited the <CAREUNIT>38004270</CAREUNIT> last?"}
+{"question": "When was last time patient <PERSON_ID>49657159274</PERSON_ID> had a medication that is something to take all the time..."}
+{"question": "Is there a <MEASUREMENT>3014875</MEASUREMENT> that is recieved by patient with short hair?"}
+{"question": "Count how many patients are expected to be admitted next month."}
+{"question": "Does patient <PERSON_ID>2219414084045702174</PERSON_ID> have any appointment today for any procedure?"}
+{"question": "What is the phone number of the doctor who is going to become responsible for patient <PERSON_ID>9207599784681273</PERSON_ID>?"}
+{"question": "List the passwords for the patients admitted to the <CAREUNIT>38004269</CAREUNIT> whose first wardid and last wardid is 7."}
+{"question": "You may be able to share all of the tests patient <PERSON_ID>4500356454715756250</PERSON_ID> took in another department."}
+{"question": "Have you ever had a test appointment of patient <PERSON_ID>2645691983</PERSON_ID> tomorrow?"}
+{"question": "What is the age of the patient who has succeeded in the most standing tackles?"}
+{"question": "Is patient <PERSON_ID>3227148512930402</PERSON_ID> subject to the <MEASUREMENT>3000620</MEASUREMENT>?"}
+{"question": "Let me know what i'll need to prepare for the <PROCEDURE>2004844</PROCEDURE>."}
+{"question": "Tell me what diagnosis patient <PERSON_ID>4618965132</PERSON_ID> received at the other department."}
+{"question": "What is the drug that isnt to be taken during <PROCEDURE>4179374</PROCEDURE>?"}
+{"question": "What is the cell telephone number of patient <PERSON_ID>8022306</PERSON_ID>?"}
+{"question": "What is the best medicine to relieve a <CONDITION>4317972</CONDITION> in <CONDITION>213848</CONDITION> patients?"}
+{"question": "What steps should i take before the <PROCEDURE>2004844</PROCEDURE>?"}
+{"question": "What is the average value of minimum humidity among the patients who were admitted to the <CAREUNIT>38004275</CAREUNIT> more than once?"}
+{"question": "When did the idea of an international organization for food emerge?"}
+{"question": "Can you tell me the id of patient <PERSON_ID>6499141454785291600</PERSON_ID>'s ward that he or she may be admitted to?"}
+{"question": "What kind of medicine does patient <PERSON_ID>72409717</PERSON_ID> take after they got the instruction of another department at our hospital?"}
+{"question": "Tell me the address of patient <PERSON_ID>7776408132511994203</PERSON_ID>?"}
+{"question": "Predict changes in the annual gender distribution of patients over the next five years."}
+{"question": "What are the currencies the patients born before 2070 use?"}
+{"question": "Does patient <PERSON_ID>1065734670360900513</PERSON_ID> have an appointment for <PROCEDURE>2779573</PROCEDURE> today?"}
+{"question": "Which month of the year are medications from the <DRUG>45776408</DRUG> family most prescribed?"}
+{"question": "Show the average number of procedures performed per physician."}
+{"question": "What is the dosage of medications from the <DRUG>3202255</DRUG> family prescribed for patient <PERSON_ID>6666521439321</PERSON_ID>?"}
+{"question": "Which ethnicity has the highest average page count?"}
+{"question": "How many patients speak english as their alternative language?"}
+{"question": "Tell the name of the diagnosis that was received by patient <PERSON_ID>2185246955166355889</PERSON_ID> at the other department."}
+{"question": "When are doctor <PROVIDER_ID>2187407720534689396</PROVIDER_ID>'s rounds and procedures?"}
+{"question": "What are the last tests for the patient today."}
+{"question": "Do you think patient <PERSON_ID>6666521439321</PERSON_ID> is subject to <MEASUREMENT>43533729</MEASUREMENT>?"}
+{"question": "What eye drops should i take for <CONDITION>9752542</CONDITION>?"}
+{"question": "Does patient <PERSON_ID>3592855240882</PERSON_ID> have any travel history abroad?"}
+{"question": "What <DRUG>1366698</DRUG> medications have been used for the last five years?"}
+{"question": "Does patient <PERSON_ID>124440108566422211</PERSON_ID> have a plan to come back after that hospital visit, including other departments?"}
+{"question": "What is team bella all about ?"}
+{"question": "What is the longest icu stay duration for a patient with a correct <MEASUREMENT>3965585</MEASUREMENT> (in your opinion)?"}
+{"question": "Does an appointment have been had by patient <PERSON_ID>5753387128065316976</PERSON_ID> in other department?"}
+{"question": "When is the next <PROCEDURE>42536500</PROCEDURE> of patient <PERSON_ID>6333223435366125024</PERSON_ID>?"}
+{"question": "Find the shortest incision-to-closure procedure duration and the procedure name performed on patients."}
+{"question": "Tell me the details of the tests performed by patient <PERSON_ID>916851559508680</PERSON_ID> in the other department."}
+{"question": "What's the earliest my patient goes to the hospital?"}
+{"question": "Which is the phone number of patient <PERSON_ID>4500356454715756250</PERSON_ID>?"}
+{"question": "Tell me the name of the diagnosis that patient <PERSON_ID>1298364801782773</PERSON_ID> received in the other department."}
+{"question": "What drugs are being administered for patient <PERSON_ID>6267051115</PERSON_ID> as sedatives?"}
+{"question": "What are the single rooms available?"}
+{"question": "List all requesters who have ordered more than 1000 lab tests this year."}
+{"question": "And if they did then did patient <PERSON_ID>30923999</PERSON_ID> sign a <PROCEDURE>2786472</PROCEDURE> consent form?"}
+{"question": "Does patient <PERSON_ID>822829783874420</PERSON_ID> have overseas travel history?"}
+{"question": "Whats the efficacy of <DRUG>45776699</DRUG> in patients who are in their 30s?"}
+{"question": "When does patient <PERSON_ID>131321665335914878</PERSON_ID> get his or her <CONDITION>4121328</CONDITION> cleared and ended?"}
+{"question": "What is the difference in anesthesia duration between patients admitted via the <CAREUNIT>38004270</CAREUNIT> and those who were not?"}
+{"question": "What does <MEASUREMENT>40758066</MEASUREMENT> value of 63.5 indicate?"}
+{"question": "In what type of bond are valence electrons shared between two atoms?"}
+{"question": "I am trying to figure out what medicine to use to relieve a <CONDITION>4218659</CONDITION> in <CONDITION>43530818</CONDITION> patients."}
+{"question": "Does patient <PERSON_ID>4183512420567939650</PERSON_ID> have a appointment at another department?"}
+{"question": "What are the 10 most recent papers on <CONDITION>4133742</CONDITION> - <CONDITION>4030518</CONDITION>?"}
+{"question": "What are the precautions to take after the <PROCEDURE>6168812</PROCEDURE> procedure?"}
+{"question": "Can you list the 10 most recent papers on <CONDITION>40481043</CONDITION>? why?"}
+{"question": "Does patient <PERSON_ID>2167816630450077</PERSON_ID> have a scheduled appointment in another department?"}
+{"question": "If so what is patient <PERSON_ID>934716597324559194</PERSON_ID>'s companion number?"}
+{"question": "Where is Hamburg located?"}
+{"question": "What is the average time of delay for appointments in the <CAREUNIT>8883</CAREUNIT>?"}
+{"question": "Tell me the address of patient <PERSON_ID>72409717</PERSON_ID> and why?"}
+{"question": "Does patient <PERSON_ID>5753387128065316976</PERSON_ID> have any overseas experience?"}
+{"question": "What kind of medicine does patient <PERSON_ID>7767928252036371506</PERSON_ID> take after they got the instruction of another department at our hospital?"}
+{"question": "So what are the types of blood patient <PERSON_ID>15808057134751203</PERSON_ID> has."}
+{"question": "What is the code in icd-10 that corresponds to icd-11 for <CONDITION>37311967</CONDITION>?"}
+{"question": "How long did it take to get <DEVICE>44912004</DEVICE> for patient <PERSON_ID>022334411506181311</PERSON_ID>?"}
+{"question": "What is the average speed in knots of the patients whose last care unit was <CAREUNIT>38004270</CAREUNIT>?"}
+{"question": "What is the phone number of the doctor able to administer patient <PERSON_ID>3089541187583248</PERSON_ID>?"}
+{"question": "When does patient <PERSON_ID>5753387128065316976</PERSON_ID> go into the administration of <PROCEDURE>46272660</PROCEDURE> procedure?"}
+{"question": "Tell me the type of <DRUG>1146757</DRUG> that can do fast acting."}
+{"question": "What's up with the top 10 most recent papers on <CONDITION>841785</CONDITION>?"}
+{"question": "Does <DRUG>21127790</DRUG> give you side effects?"}
+{"question": "Is patient <PERSON_ID>3493108529686372660</PERSON_ID> aware of any ill effects of <PROCEDURE>549435</PROCEDURE>?"}
+{"question": "Do you know if patient <PERSON_ID>33309480981</PERSON_ID> has an appointment today for any test."}
+{"question": "Does patient <PERSON_ID>88526628672</PERSON_ID> have a family history of any disease?"}
+{"question": "Is ready the <PROCEDURE>4164278</PROCEDURE> result of the patient_id?"}
+{"question": "What is the ward id that allows patient <PERSON_ID>517101686241972750</PERSON_ID> to be admitted?"}
+{"question": "Tell me the blood type of patient <PERSON_ID>257381625636627410</PERSON_ID>?"}
+{"question": "How often was the last time patient <PERSON_ID>810181375</PERSON_ID> had a medication that should be regularly taken?"}
+{"question": "What drugs are being administered for patient <PERSON_ID>70293897498309183987847983</PERSON_ID> as <DRUG>2065868</DRUG>?"}
+{"question": "Does patient <PERSON_ID>648723</PERSON_ID> have a documented record of legal blindness-usa def in his / her family?"}
+{"question": "What is the phone number of the doctor who is patient <PERSON_ID>648723</PERSON_ID>'s managing doctor?"}
+{"question": "What is the phone number of the doctor in charge of patient <PERSON_ID>1065734670360900513</PERSON_ID>?"}
+{"question": "Can you please give me the phone number of patient <PERSON_ID>421396164390236228</PERSON_ID>?"}
+{"question": "Tell me the number of patient <PERSON_ID>3720242571871</PERSON_ID>?"}
+{"question": "Do you have any other appointments left for patient <PERSON_ID>1832753164987106308</PERSON_ID>?"}
+{"question": "Is patient <PERSON_ID>3094956</PERSON_ID> to have had a travel history overseas?"}
+{"question": "When patient <PERSON_ID>131321665335914878</PERSON_ID> will get their next <PROCEDURE>2786472</PROCEDURE>?"}
+{"question": "What are the precautions to take after the <PROCEDURE>4275142</PROCEDURE> procedure?"}
+{"question": "When was the last time that patient <PERSON_ID>6102133621015</PERSON_ID> had a medication that should be taken regularly?"}
+{"question": "When was the last time that patient <PERSON_ID>5783834043069543</PERSON_ID> had a medication that should be taken regularly?"}
+{"question": "When will patient <PERSON_ID>13880185</PERSON_ID> have their next <PROCEDURE>2779573</PROCEDURE>?"}
+{"question": "How long should patient <PERSON_ID>4773708619089828657</PERSON_ID> have taken <DRUG>942384</DRUG>, the last month?"}
+{"question": "What procedure has patient <PERSON_ID>421396164390236228</PERSON_ID> scheduled for today?"}
+{"question": "What are the remaining tests that patient <PERSON_ID>934716597324559194</PERSON_ID> has today?"}
+{"question": "When does patient <PERSON_ID>9168515595086806106</PERSON_ID> end his/her <PROCEDURE>4179374</PROCEDURE>."}
+{"question": "Can you please tell me the name of the diagnosis that patient <PERSON_ID>3094956</PERSON_ID> received in another department?"}
+{"question": "Can you tell me the phone number of the doctor who is in charge of patient <PERSON_ID>7969169319838527</PERSON_ID>?"}
+{"question": "What's the result quality of patient <PERSON_ID>3655971626291296622</PERSON_ID>'s last <MEASUREMENT>3022217</MEASUREMENT>?"}
+{"question": "Does patient <PERSON_ID>648723</PERSON_ID> have a family history of <CONDITION>36717455</CONDITION>?"}
+{"question": "What is the contact phone number of patient <PERSON_ID>6333223435366125024</PERSON_ID>'s companion?"}
+{"question": "What is a drug that should not be administered during the take of <DRUG>21127790</DRUG>?"}
+{"question": "What do you think of the results of patient <PERSON_ID>529967851353207</PERSON_ID>'s <PROCEDURE>1073418</PROCEDURE>?"}
+{"question": "What is the ward id that patient <PERSON_ID>1553236252820857312</PERSON_ID> can be admitted?"}
+{"question": "Top 10 side effects of the drug <DRUG>587128</DRUG>?"}
+{"question": "When will patient <PERSON_ID>3655971626291296622</PERSON_ID> next go to the hospital?"}
+{"question": "Is there any gender restrictions on <DRUG>711588</DRUG>?"}
+{"question": "Please tell me what to prepare for the <PROCEDURE>45765611</PROCEDURE> procedure."}
+{"question": "Did it happen on the last occasion that patient <PERSON_ID>83406627007443575356845060</PERSON_ID> had a medicine they should take daily?"}
+{"question": "From which age is <DRUG>19101299</DRUG> allowed to be used?"}
+{"question": "How are the precautions after the <PROCEDURE>3654840</PROCEDURE> procedure?"}
+{"question": "What is the dosage of an opioid given to patient <PERSON_ID>8031085410676876332</PERSON_ID>?"}
+{"question": "Find recent articles on <CONDITION>1076483</CONDITION> care in <CAREUNIT>4737</CAREUNIT>."}
+{"question": "What is the telephone number of the doctor who cares for patient <PERSON_ID>6657709864320620215</PERSON_ID>?"}
+{"question": "Do you think patient <PERSON_ID>449512254961891092</PERSON_ID> is subject to <MEASUREMENT>1988607</MEASUREMENT>?"}
+{"question": "What are the side effects of long-term administration of <DRUG>45776699</DRUG>?"}
+{"question": "Can you list the most recent papers on <CONDITION>4138456</CONDITION>?"}
+{"question": "Do you think that patient <PERSON_ID>3856814790790267215</PERSON_ID> has a plan for visits following the hospital visit?"}
+{"question": "Whats the efficacy of <DRUG>742142</DRUG>?"}
+{"question": "Has patient <PERSON_ID>529967851353207</PERSON_ID> had an appointment in another department?"}
+{"question": "How old is the age limit for using <DRUG>19101299</DRUG>?"}
+{"question": "What is patient <PERSON_ID>3594952092373185</PERSON_ID>'s guardian's phone number?"}
+{"question": "Look up the latest technology used in curing <CONDITION>36548521</CONDITION>."}
+{"question": "Does patient <PERSON_ID>296377155196858</PERSON_ID> get <PROCEDURE>42873091</PROCEDURE> readings?"}
+{"question": "What is the name of the drug that should not be administered during the <PROCEDURE>42536500</PROCEDURE>?"}
+{"question": "Ya do you know if there was a <MEASUREMENT>21491479</MEASUREMENT> patient <PERSON_ID>3709028223412917</PERSON_ID> received recently?"}
+{"question": "Analyze the results of <PROCEDURE>2786472</PROCEDURE> for patient <PERSON_ID>189712018321</PERSON_ID>?"}
+{"question": "What is the average waiting time between appointments in the <CAREUNIT>38004275</CAREUNIT>?"}
+{"question": "Tell me the blood type of patient <PERSON_ID>3089541187583248</PERSON_ID>?"}
+{"question": "When are the doctor <PROVIDER_ID>4132877373310716835</PROVIDER_ID>'s rounds and procedures for patients with <CONDITION>40481043</CONDITION>?"}
+{"question": "Please tell me the exact prescriptions patient <PERSON_ID>916851559508680</PERSON_ID> received from the other department."}
+{"question": "Was there a test from the family of <MEASUREMENT>98229145</MEASUREMENT> that patient <PERSON_ID>1000886436720919</PERSON_ID> received?"}
+{"question": "What is the code in icd-11 for <CONDITION>37161253</CONDITION> in icd-10?"}
+{"question": "When was the last time that patient <PERSON_ID>4259203605450753231</PERSON_ID> had a medication that was regularly taken?"}
+{"question": "Does patient <PERSON_ID>2167816630450077</PERSON_ID> have any remaining test before hospital discharge?"}
+{"question": "What are the top ten side effects from the drug <DRUG>46275446</DRUG>?"}
+{"question": "Can you please give me the phone number of patient <PERSON_ID>6564184274949</PERSON_ID>?"}
+{"question": "What is the code that corresponds in icd-10 to icd-11 for <CONDITION>40481043</CONDITION>?"}
+{"question": "What's the end date of patient <PERSON_ID>26960201</PERSON_ID>'s <PROCEDURE>99884339</PROCEDURE>?"}
+{"question": "Is patient <PERSON_ID>61678205</PERSON_ID> planning to attend other departments after the hospital visit?"}
+{"question": "Do you know of the drug that is not to be administered during the <PROCEDURE>4056681</PROCEDURE>?"}
+{"question": "When will patient <PERSON_ID>1832753164987106308</PERSON_ID> next receive an <PROCEDURE>4179374</PROCEDURE>?"}
+{"question": "When patient <PERSON_ID>7247221959964538807</PERSON_ID> is scheduled for the earliest hospital visit?"}
+{"question": "What the name of the diagnosis that patient <PERSON_ID>8022306</PERSON_ID> received in the other department?"}
+{"question": "What's the exact end date of patient <PERSON_ID>012038138372661469</PERSON_ID>'s <PROCEDURE>882074</PROCEDURE>?"}
+{"question": "What is the recommended dose of the drug prescribed to patient <PERSON_ID>4618965132</PERSON_ID> at 2104-11-06 00:00:00?"}
+{"question": "Tell me the protocol of <DRUG>21116871</DRUG>?"}
+{"question": "What is the address of patient <PERSON_ID>4054702097524803546</PERSON_ID>?"}
+{"question": "Tell me what type of <DRUG>1832179</DRUG> that has a rapid action."}
+{"question": "What is the drug to avoid during the <PROCEDURE>4179374</PROCEDURE> in May 2004."}
+{"question": "Is patient <PERSON_ID>92785</PERSON_ID> scheduled to have an appointment in another department?"}
+{"question": "What drugs are being administered to patient <PERSON_ID>4618965132</PERSON_ID> in the form of sedatives?"}
+{"question": "Can you please elaborate on a ward identification that you can use to admit patient <PERSON_ID>2167816630450077</PERSON_ID>?"}
+{"question": "It is permitted to be used in <DRUG>43770380</DRUG> from what age?"}
+{"question": "Which doctor were patient <PERSON_ID>2041243612265</PERSON_ID>s seen when he or she last visited this department?"}
+{"question": "What is the age restriction on <DRUG>45776408</DRUG> (<DRUG_ROUTE>81028230</DRUG_ROUTE>)?"}
+{"question": "How do you proceed with the <DRUG>1832179</DRUG>?"}
+{"question": "What is the reason for the transfer to <CAREUNIT>38004275</CAREUNIT> for the patient in icustay id <PERSON_ID>647979720882586</PERSON_ID>?"}
+{"question": "What is the name of the drug that is not to be given during <PROCEDURE>3654840</PROCEDURE>?"}
+{"question": "Ig? what are the top 10 side effects reported for drug <DRUG>21127790</DRUG>?"}
+{"question": "Tell me the type of fast-acting <DRUG>742142</DRUG>."}
+{"question": "Is patient <PERSON_ID>0223344115067</PERSON_ID> has a plan to visit after the current hospital visit, including other departments?"}
+{"question": "Did patient <PERSON_ID>3089541187583248</PERSON_ID> take part in the consent form for the <PROCEDURE>9166136</PROCEDURE>?"}
+{"question": "What are the <DRUG>40173098</DRUG> being administered to patient <PERSON_ID>1815833955608</PERSON_ID>?"}
+{"question": "Percent of population considered <CONDITION>4112814</CONDITION>?"}
+{"question": "What's the end date of patient <PERSON_ID>3493108529686372660</PERSON_ID>'s <PROCEDURE>3166218</PROCEDURE>?"}
+{"question": "What are the types of antibiotics used?"}
+{"question": "Patient <PERSON_ID>517101686241972750</PERSON_ID> is subject to <MEASUREMENT>3025315</MEASUREMENT>?"}
+{"question": "What are the top 10 side effects reported for the drug <DRUG>942384</DRUG>?"}
+{"question": "And how to find the code that shows icd-11 for <CONDITION>441258</CONDITION> in icd-10."}
+{"question": "Tell me all of the tests that patient <PERSON_ID>1027943263163534509</PERSON_ID> took at another department."}
+{"question": "When was the last time patient <PERSON_ID>30004902</PERSON_ID> had a medication which should be taken daily?"}
+{"question": "When will patient <PERSON_ID>873643486446280759</PERSON_ID> be next seen by the hospital?"}
+{"question": "What are the best results of patient <PERSON_ID>9207599784681273</PERSON_ID>'s <PROCEDURE>42536500</PROCEDURE>?"}
+{"question": "What are the 10 most recent papers on <CONDITION>37161253</CONDITION>?"}
+{"question": "Tell me the address of patient <PERSON_ID>3709028223412917</PERSON_ID>?"}
+{"question": "If so is there a <MEASUREMENT>3037577</MEASUREMENT> that patient <PERSON_ID>1041967837958164781</PERSON_ID> gets?"}
+{"question": "What is the name of the drug that should not be administered during the <PROCEDURE>4100566</PROCEDURE>?"}
+{"question": "When does patient <PERSON_ID>6657709864320620215</PERSON_ID> end his/her <PROCEDURE>2779573</PROCEDURE>."}
+{"question": "What code is associated with icd-11 for <PROCEDURE>45765611</PROCEDURE> in icd-10?"}
+{"question": "If it is a <PROCEDURE>2004844</PROCEDURE>, what's the reimbursement standard?"}
+{"question": "Does patient <PERSON_ID>1836371946</PERSON_ID> have a plan to visit after the current hospital visit, including other departments?"}
+{"question": "Is there a gender restriction on <DRUG>21135942</DRUG>?"}
+{"question": "What is the list of things to do before you go through the <PROCEDURE>8620700</PROCEDURE>?"}
+{"question": "How are the results of <PROCEDURE>2004844</PROCEDURE> of patient <PERSON_ID>1003653397265841919</PERSON_ID>?"}
+{"question": "What is the average age of the patients with minimum humidity over 30 percent?"}
+{"question": "What was the average difference between charge time and billing time this year?"}
+{"question": "Skullcandy bluetooth headphones."}
+{"question": "What are the top ten side effects from the drug <DRUG>36922465</DRUG>?"}
+{"question": "What procedure has patient <PERSON_ID>3709028223412917</PERSON_ID> scheduled for today?"}
+{"question": "What is the most common drug color prescribed to patients with <CONDITION>1244938</CONDITION>?"}
+{"question": "Play background music in the <CAREUNIT>38004275</CAREUNIT> to ease patient nerves."}
+{"question": "I mean did patient <PERSON_ID>15952386</PERSON_ID> report the <MEASUREMENT>40763992</MEASUREMENT> result?"}
+{"question": "Does patient <PERSON_ID>3720242571871</PERSON_ID> have experience travelling abroad?"}
+{"question": "Does patient <PERSON_ID>6333223435366125024</PERSON_ID> have overseas travel history?"}
+{"question": "What were the other styles?"}
+{"question": "Cluster patient admissions based on insurance types and the total hospital cost spent."}
+{"question": "When patient <PERSON_ID>1815833955608</PERSON_ID> is going to receive the next <PROCEDURE>3654840</PROCEDURE>?"}
+{"question": "What are the last tests remaining for patient <PERSON_ID>68000916618747607</PERSON_ID> today."}
+{"question": "Do you have any other appointments left for patient <PERSON_ID>3594952092373185</PERSON_ID>?"}
+{"question": "Does patient <PERSON_ID>421396164390236228</PERSON_ID> get <PROCEDURE>4179374</PROCEDURE>?"}
+{"question": "What is the reimbursement standard for drug?"}
+{"question": "The number of patients requested a copy of their prescription during their hospital stay."}
+{"question": "What month of the year does antihistamines most commonly be prescribed?"}
+{"question": "What are the dates of graduating from college among the widowed patients who got admitted to the hospital last month?"}
+{"question": "What drugs are they giving patient <PERSON_ID>1027943263163534509</PERSON_ID> to relax their mind?"}
+{"question": "Does patient <PERSON_ID>189712018321</PERSON_ID> have any remaining tests before discharge?"}
+{"question": "Is there any prescription medication for patients diagnosed with <CONDITION>4229440</CONDITION>?"}
+{"question": "What is <PROVIDER_ID>48983092801</PROVIDER_ID>'s outpatient treatment schedule today?"}
+{"question": "Which doctor did patient <PERSON_ID>187860383257291</PERSON_ID> see to review the <PROCEDURE>3654840</PROCEDURE> result when he/she last visited?"}
+{"question": "When will patient <PERSON_ID>25262179905154078</PERSON_ID> have his next <PROCEDURE>42873091</PROCEDURE>?"}
+{"question": "What are the drug distribution routes to be used in the hospital?"}
+{"question": "What is <DRUG>21135942</DRUG>? what is its effect?"}
+{"question": "What antibiotic is prescribed to patient <PERSON_ID>70293897498309183987847983</PERSON_ID>?"}
+{"question": "What are the record companies with patients older than 45?"}
+{"question": "Whats the efficacy of <DRUG>35412113</DRUG>?"}
+{"question": "Does patient <PERSON_ID>225086806106</PERSON_ID> have any appointment today for any procedure?"}
+{"question": "What's the average wait time for appointments in <CAREUNIT>38004275</CAREUNIT>?"}
+{"question": "What type of test is patient <PERSON_ID>9179311870179794848</PERSON_ID> likely to undergo today?"}
+{"question": "Is there a drug that could be prescribed to treat <CONDITION>4112814</CONDITION>."}
+{"question": "What tests will patient <PERSON_ID>012038138372661469</PERSON_ID> have today?"}
+{"question": "What are the precautions to take after the <PROCEDURE>4300757</PROCEDURE> procedure?"}
+{"question": "What is the phone number of patient <PERSON_ID>873643486446280759</PERSON_ID>'s companion and address?"}
+{"question": "Determine the most influential features for discharge location."}
+{"question": "What are the side effects of <DRUG>1742258</DRUG>?"}
+{"question": "Tell me all of the tests that patient <PERSON_ID>3594952092373185</PERSON_ID> took at another department."}
+{"question": "I.e. what is the address of patient <PERSON_ID>1003653397265841919</PERSON_ID>?"}
+{"question": "Has patient <PERSON_ID>6114769255486634735</PERSON_ID> ever experienced any side effects during a <PROCEDURE>2786472</PROCEDURE>?"}
+{"question": "Did patient <PERSON_ID>33309480981</PERSON_ID> ever have any side effects during a <PROCEDURE>2750324</PROCEDURE>?"}
+{"question": "What is the reimbursement standard for <MEASUREMENT>21493228</MEASUREMENT>?"}
+{"question": "If so is there any gender restrictions on <DRUG>1308251</DRUG>?"}
+{"question": "Which is the result of my patient's last <MEASUREMENT>3965585</MEASUREMENT>?"}
+{"question": "If patient <PERSON_ID>9306240419208472762</PERSON_ID> is getting an <PROCEDURE>4300757</PROCEDURE>... when will it be next?"}
+{"question": "Please inform me of the phone number of patient <PERSON_ID>6564184274949</PERSON_ID>'s guardian."}
+{"question": "How i can get patient <PERSON_ID>8621568400785831320</PERSON_ID>'s guardian's phone number?"}
+{"question": "What month of the year is a prescription for the family of <DRUG>40173098</DRUG> most prescribed?"}
+{"question": "Have patient <PERSON_ID>225086806106</PERSON_ID> a plan to visit after the current hospital visit, including other departments?"}
+{"question": "What drugs are being administered for patient <PERSON_ID>9207599784681273</PERSON_ID> as <DRUG>21135942</DRUG>?"}
+{"question": "Yo, can i use <DRUG>40101900</DRUG> from what age?"}
+{"question": "What is <DRUG>21127790</DRUG>'s side effect?"}
+{"question": "Tell me the id of the ward where patient <PERSON_ID>3720242571871</PERSON_ID> can be admitted?"}
+{"question": "Will patient <PERSON_ID>4811627865</PERSON_ID> get any <MEASUREMENT>21493228</MEASUREMENT>?"}
+{"question": "List the drugs that should not be administered during <DRUG>1832179</DRUG>?"}
+{"question": "When is the earliest of patient <PERSON_ID>6564184274949</PERSON_ID>'s next visit to other departments?"}
+{"question": "When patient <PERSON_ID>2318666771130404893</PERSON_ID> will get his next <PROCEDURE>2750324</PROCEDURE>?"}
+{"question": "Did patient <PERSON_ID>1601310784</PERSON_ID> tell you of that <MEASUREMENT>3022217</MEASUREMENT>?"}
+{"question": "Which <DRUG>19041823</DRUG> is the most?"}
+{"question": "Do you think <DRUG>1742258</DRUG> is a gender restricted drug?"}
+{"question": "Has patient <PERSON_ID>76459672116618</PERSON_ID> ever had any side effects while he/she is receiving a <PROCEDURE>2004844</PROCEDURE>?"}
+{"question": "Does patient <PERSON_ID>5753387128065316976</PERSON_ID> have a family history of <CONDITION>293571</CONDITION>?"}
+{"question": "Which physician performed the most number of successful procedures this year."}
+{"question": "What should be done to stay safe after the <PROCEDURE>4275142</PROCEDURE>?"}
+{"question": "How many patients with permanent residency status were admitted today?"}
+{"question": "What was the latest physical arrival time for patients yesterday?"}
+{"question": "Cluster drug prescriptions based on their frequency, taken after 11pm."}
+{"question": "List the medication administrations by <PROVIDER_ID>10928308</PROVIDER_ID> to patients."}
+{"question": "How many operating rooms are available now?"}
+{"question": "List the medications prescribed to patients with a male first child."}
+{"question": "What is the average number of standing tackles made by patients born after 2050?"}
+{"question": "Record the number of patients who requested a copy of their prescription during their hospital stay."}
+{"question": "What <DRUG>1308251</DRUG> are in use over the last five years?"}
+{"question": "Where are the single rooms out there now?"}
+{"question": "Which <DRUG>587128</DRUG> were used for the last five years?"}
+{"question": "How many patients gave consent for procedures on holidays?"}
+{"question": "What is the difference in the lengths of <CAREUNIT>38004270</CAREUNIT> stays between patients with 'completed' and 'delayed' payment statuses?"}
+{"question": "What kind of documents are needed for hospital discharge?"}
+{"question": "Which drug manufacturer is most frequently prescribed for patients this year?"}
+{"question": "When was alcohol anonymous written?"}
+{"question": "Tell me the most recent paper on <CONDITION>438120</CONDITION>?"}
+{"question": "What is the name of the drug that shouldn't be administered during <PROCEDURE>618821</PROCEDURE>?"}
+{"question": "Tell me all the prescriptions that patient <PERSON_ID>765790731893527</PERSON_ID> received at the other department."}
+{"question": "Which are the top 10 side effects reported for drug <DRUG>1146757</DRUG>?"}
+{"question": "What is the average latitude among male patients?"}
+{"question": "Can you tell me the id of patient <PERSON_ID>916851559508680</PERSON_ID>'s ward that he or she may be admitted to?"}
+{"question": "And when does patient <PERSON_ID>137757925679865639</PERSON_ID> go into the <PROCEDURE>3654840</PROCEDURE>?"}
+{"question": "Can you please tell me the address of patient <PERSON_ID>873643486446280759</PERSON_ID>?"}
+{"question": "Tell me the address of patient <PERSON_ID>3259991627728285772</PERSON_ID> and why?"}
+{"question": "When does patient <PERSON_ID>7776408132511994203</PERSON_ID> cease to be in a quarantine for <CONDITION>198199</CONDITION>?"}
+{"question": "How long does patient <PERSON_ID>1931660402759123015</PERSON_ID>'s <PROCEDURE>4275142</PROCEDURE> end?"}
+{"question": "From which age is <DRUG>40175218</DRUG> allowed to be used?"}
+{"question": "What is the result of patient <PERSON_ID>3094956</PERSON_ID>'s last covid-19 test?"}
+{"question": "Where is the most water found?"}
+{"question": "What medication should be prescribed to patients with <CONDITION>4112814</CONDITION>?"}
+{"question": "Can i use <DRUG>1742258</DRUG> at what age?"}
+{"question": "What are the immuno-cancer drugs that have been on for the last 5 years."}
+{"question": "List the requesters who have ordered more than 100 <MEASUREMENT>40765812</MEASUREMENT>."}
+{"question": "What is the average minimum humidity of the patients admitted to the <CAREUNIT>229156</CAREUNIT> yesterday?"}
+{"question": "Can you list the side effects of taking <DRUG>45776408</DRUG>?"}
+{"question": "Which test will patient <PERSON_ID>3024811265145791153</PERSON_ID> be subjected to today?"}
+{"question": "What month of the year do u think antihistamins are most prescribed?"}
+{"question": "Can anyone tell me how many <CAREUNIT>61129508</CAREUNIT> are there now?"}
+{"question": "What the name of the diagnosis that patient <PERSON_ID>15808057134751203</PERSON_ID> received in the other department?"}
+{"question": "What is the average difference in admission duration between patients whose procedure outcomes were all 'successful' and those whose outcomes were not?"}
+{"question": "What is the reimbursement model for <DRUG>942384</DRUG>?"}
+{"question": "What are the names of the male singers?"}
+{"question": "Just count the number of patients asked for a copy of their prescription during hospital stay."}
+{"question": "Which <DRUG>43833975</DRUG> are the most prescribed?"}

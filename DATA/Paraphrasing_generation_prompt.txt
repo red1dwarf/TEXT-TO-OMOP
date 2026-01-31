@@ -1,0 +1,4 @@
+Prompt used to generate paraphrases with ChatGPT-4.1 :
+
+"[QUESTION]
+Generate 29 paraphrases in a JSON file. Do not modify anything between the "<*></*>" tags. Create maximum linguistic diversity without changing the meaning or the intent of the sentence."

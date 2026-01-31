@@ -1,0 +1,8 @@
+Prompt used to enrich the synthetic OMOP database (PostgreSQL) with GPT-5.1 :
+
+"I am currently building a synthetic OMOP database (PostgreSQL) so that the “gold” SQL queries in my dataset (containing synthetic values) return non-empty results when executed.
+
+For the SQL query below, tell me exactly what I should do to populate or adjust the synthetic data so that the query produces results. Please also introduce a bit of diversity in the returned rows.
+
+SQL query:
+[SQL_QUERY]"
