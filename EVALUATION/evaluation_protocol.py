@@ -162,7 +162,11 @@ def execute_sql_readonly(
 
 
 def normalize_value_for_result(v: Any) -> Any:
-    return "" if v is None else str(v)
+    return "" if v is None else v
+
+
+def _result_sort_key(v: Any) -> Any:
+    return (type(v).__name__, repr(v))
 
 
 def normalize_result(
@@ -170,10 +174,13 @@ def normalize_result(
     rows: List[Tuple[Any, ...]],
     sort_rows: bool = True,
 ) -> Tuple[Tuple[str, ...], List[Tuple[Any, ...]]]:
-    col_tuple = tuple(cols)
-    norm_rows = [tuple(normalize_value_for_result(v) for v in row) for row in rows]
+    # Column names and column order are intentionally ignored for execution comparison.
+    # We canonicalize each row by normalizing values and sorting within-row values so that
+    # permutations of output columns do not affect equality.
+    col_tuple: Tuple[str, ...] = tuple()
+    norm_rows = [tuple(sorted((normalize_value_for_result(v) for v in row), key=_result_sort_key)) for row in rows]
     if sort_rows:
-        norm_rows.sort()
+        norm_rows.sort(key=lambda row: tuple(_result_sort_key(v) for v in row))
     return col_tuple, norm_rows
 
 

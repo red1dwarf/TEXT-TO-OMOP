@@ -23,9 +23,9 @@ TEXT-TO-OMOP/
     Unanswerable_dataset.jsonl
     UNANSWERABLES.md
     Answerable_dataset.json
-    train_set.jsonl
-    val_set.jsonl
-    test_set.jsonl
+    train.jsonl
+    val.jsonl
+    test.jsonl
     split_script.py
   FT/
     Fine-tuning.py
@@ -46,17 +46,26 @@ TEXT-TO-OMOP/
     post-hoc_analysis.py
   DB/
     omop_profile.py
-    DUMP.custom
+    DUMP.backup
     DB_generation_prompt.txt
 ```
 
 ## Data format
 
-### Train/val/test JSONL (`train_set.jsonl`, `val_set.jsonl`, `test_set.jsonl`)
+### Train/val/test JSONL (`train.jsonl`, `val.jsonl`, `test.jsonl`)
 Each line is a JSON object with:
 ```json
 {"input": "<question>", "output": "<sql or <NO_SQL>>"}
 ```
+
+#### Output conventions (contract)
+
+For every example and every model prediction:
+
+- **Answerable**: `output` is a single SQL query that **must end with `;`**.
+- **Unanswerable / abstention**: `output` is exactly `<NO_SQL>` (no other tokens).
+- The inference scripts **truncate generations at the first `;`** and ensure the output is terminated with a semicolon.
+- Empty/whitespace generations are normalized to `<NO_SQL>`.
 
 ### Deduplicated source dataset (`Answerable_dataset.json`)
 The split script expects a JSON **array** where each example contains at least:
@@ -68,6 +77,14 @@ The split script expects a JSON **array** where each example contains at least:
 A plain-text list of unanswerable questions (one per line). Lines starting with `#` are treated as comments and ignored.
 
 This file was created by **extracting the unanswerable questions present in the public EHRSQL/EHRSQL-2024 data files** and consolidating them into a single list for convenience (see “Data provenance & attribution” below).
+
+### Normalized unanswerable set (`Unanswerable_dataset.jsonl`)
+
+This file is a **normalized/tagged** version of `UNANSWERABLES.md`:
+- `UNANSWERABLES.md` contains the **pooled raw unanswerable questions** extracted from the public EHRSQL/EHRSQL-2024 repository (one question per line).
+- `Unanswerable_dataset.jsonl` contains the **same unanswerable questions**, but normalized and wrapped with the tagging format used throughout this benchmark (e.g., `<PERSON_ID>...</PERSON_ID>`, `<CONDITION>...</CONDITION>`, etc.).
+
+**Note:** the split script currently consumes `UNANSWERABLES.md` (plain-text list). `Unanswerable_dataset.jsonl` is provided for reproducibility/analysis and for downstream uses requiring structured tags.
 
 ---
 
@@ -105,7 +122,7 @@ The split utility creates train/val/test JSONL files from a deduplicated dataset
 python DATA/split_script.py \
   --input DATA/Answerable_dataset.json \
   --unanswerables DATA/UNANSWERABLES.md \
-  --output_dir DATA/splits \
+  --output_dir DATA \
   --seed 42
 ```
 
@@ -114,7 +131,7 @@ Outputs:
 - `DATA/val.jsonl`
 - `DATA/test.jsonl`
 
-If you already provide `train_set.jsonl`, `val_set.jsonl`, `test_set.jsonl`, you can skip this step.
+If you already provide `train.jsonl`, `val.jsonl`, `test.jsonl`, you can skip this step.
 
 > Note: the split script is designed for the paper’s curated inventory (it assumes a specific grouping of variations/paraphrases). If you apply it to a different dataset, you may need to adapt the checks accordingly.
 
@@ -126,8 +143,8 @@ The fine-tuning script trains a LoRA adapter on a Llama-3 Instruct base model us
 
 ```bash
 python FT/Fine-tuning.py \
-  --train_jsonl DATA/train_set.jsonl \
-  --valid_jsonl DATA/val_set.jsonl \
+  --train_jsonl DATA/train.jsonl \
+  --valid_jsonl DATA/val.jsonl \
   --output_dir FT/lora_text_to_omop \
   --model_name meta-llama/Meta-Llama-3-8B-Instruct \
   --bf16 \
@@ -153,7 +170,7 @@ Runs inference on a JSONL test set for one or more LoRA adapters and writes one 
 
 ```bash
 python INFERENCE/INF-LORA/inference_lora.py \
-  --test_jsonl DATA/test_set.jsonl \
+  --test_jsonl DATA/test.jsonl \
   --output_dir INFERENCE/INF-LORA \
   --lora_dirs FT/lora_text_to_omop/checkpoint-150 FT/lora_text_to_omop/checkpoint-312 \
   --batch_size 8 \
@@ -177,7 +194,7 @@ Runs baseline inference by injecting PostgreSQL DDL into every prompt. Supported
 
 ```bash
 python INFERENCE/INF-BASELINES/inference_schema_baselines.py \
-  --test_jsonl DATA/test_set.jsonl \
+  --test_jsonl DATA/test.jsonl \
   --schema_path INFERENCE/INF-BASELINES/inference_omop_schema.sql \
   --output_dir INFERENCE/INF-BASELINES \
   --run_models llama3,mistral,natural \
@@ -269,11 +286,11 @@ python DB/omop_profile.py \
 
 ### B) Restore the synthetic OMOP database dump (optional)
 
-`DB/DUMP.custom` is a PostgreSQL `pg_dump` **custom format** dump. Restore with:
+`DB/DUMP.backup` is a PostgreSQL `pg_dump` **custom format** dump. Restore with:
 
 ```bash
 createdb OMOP
-pg_restore --clean --if-exists --no-owner --no-privileges -d OMOP DB/DUMP.custom
+pg_restore --clean --if-exists --no-owner --no-privileges -d OMOP DB/DUMP.backup
 ```
 
 If the dump targets a specific schema, you may want to set `search_path` accordingly when evaluating.
