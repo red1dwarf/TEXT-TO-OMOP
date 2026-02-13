@@ -46,7 +46,7 @@ TEXT-TO-OMOP/
     post-hoc_analysis.py
   DB/
     omop_profile.py
-    DUMP.backup
+    DUMP.sql
     DB_generation_prompt.txt
 ```
 
@@ -286,11 +286,11 @@ python DB/omop_profile.py \
 
 ### B) Restore the synthetic OMOP database dump (optional)
 
-`DB/DUMP.backup` is a PostgreSQL `pg_dump` **custom format** dump. Restore with:
+`DB/DUMP.sql` is a PostgreSQL `pg_dump` **plain SQL** dump. The dump is exported without owner/privileges metadata (no `OWNER TO`, no `GRANT`). Restore with:
 
 ```bash
 createdb OMOP
-pg_restore --clean --if-exists --no-owner --no-privileges -d OMOP DB/DUMP.backup
+psql -d OMOP -f DB/DUMP.sql
 ```
 
 If the dump targets a specific schema, you may want to set `search_path` accordingly when evaluating.
