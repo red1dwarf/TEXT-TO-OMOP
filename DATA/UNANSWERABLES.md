@@ -1,3 +1,14 @@
+# Provenance / attribution (CC BY 4.0)
+# Source repositories (unanswerable-question pool extracted from public data files):
+# - EHRSQL: https://github.com/glee4810/EHRSQL
+# - EHRSQL 2024 Shared Task materials: https://github.com/glee4810/ehrsql-2024
+# License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+# https://creativecommons.org/licenses/by/4.0/
+# Changes made: consolidated into a single list; deduplicated; minor normalization/clean-up.
+# See also: Unanswerable_dataset.jsonl (tagged/normalized version used in this work).
+# No endorsement by the original authors is implied.
+
+
 What is the latest measurement output for patient 2091898309874802309?
 any test appointment of patient 022-187132 today?
 what drugs are being administered to patient 007-1517 to provide sedatives?

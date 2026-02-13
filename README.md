@@ -77,6 +77,7 @@ The split script expects a JSON **array** where each example contains at least:
 A plain-text list of unanswerable questions (one per line). Lines starting with `#` are treated as comments and ignored.
 
 This file was created by **extracting the unanswerable questions present in the public EHRSQL/EHRSQL-2024 data files** and consolidating them into a single list for convenience (see “Data provenance & attribution” below).
+The file starts with CC-BY attribution comments (lines beginning with `#`), which are ignored by the scripts.
 
 ### Normalized unanswerable set (`Unanswerable_dataset.jsonl`)
 
@@ -310,11 +311,25 @@ This is the expected input format for `EVALUATION/evaluation_protocol.py` and `A
 
 ## Data provenance & attribution
 
-Parts of the question inventory and the unanswerable-question pool used in this project were derived from the public **EHRSQL** dataset and/or the **EHRSQL 2024 Shared Task** materials (Reliable Text-to-SQL on EHRs), then adapted to an OMOP CDM v5.4 schema setting.
+### Third-party resources (CC BY 4.0)
 
-If you reuse the data in this repository, please make sure to also cite the original resources appropriately (and comply with their respective licenses/terms):
-- **EHRSQL**: Lee et al., 2022 (NeurIPS Datasets & Benchmarks).  
-- **EHRSQL 2024 Shared Task**: Lee et al., 2024 (ClinicalNLP Workshop).
+Parts of the question inventory and the unanswerable-question pool used in this repository were derived from the following public resources:
+
+- **EHRSQL** (Lee et al., 2022): https://github.com/glee4810/EHRSQL  
+  **License:** CC BY 4.0 (Creative Commons Attribution 4.0 International).
+
+- **EHRSQL 2024 Shared Task materials** (Lee et al., 2024): https://github.com/glee4810/ehrsql-2024  
+  **License:** CC BY 4.0 (Creative Commons Attribution 4.0 International).
+
+**CC BY 4.0 summary:** you must give appropriate credit, provide a link to the license, and indicate if changes were made.  
+License link: https://creativecommons.org/licenses/by/4.0/
+
+### What was adapted in this repository
+
+- `UNANSWERABLES.md`: consolidated pool of unanswerable questions extracted from the above resources, with deduplication and minor normalization/clean-up (see header in `UNANSWERABLES.md`).
+- `Unanswerable_dataset.jsonl`: tagged/normalized version of the same pool, aligned with this benchmark’s format.
+
+If you reuse the data, please cite the original resources (Lee et al., 2022; Lee et al., 2024) and comply with their licenses/terms. No endorsement by the original authors is implied.
 
 ---
 
