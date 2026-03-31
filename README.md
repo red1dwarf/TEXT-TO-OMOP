@@ -67,7 +67,7 @@ For every example and every model prediction:
 - The inference scripts **truncate generations at the first `;`** and ensure the output is terminated with a semicolon.
 - Empty/whitespace generations are normalized to `<NO_SQL>`.
 
-### Deduplicated source dataset (`Answerable_dataset.json`)
+### Source dataset (`Answerable_dataset.json`)
 The split script expects a JSON **array** where each example contains at least:
 - `template`
 - `sql`
@@ -116,7 +116,7 @@ Depending on your GPU / CUDA stack, you may want the official PyTorch install co
 
 ### A) Build train/val/test splits
 
-The split utility creates train/val/test JSONL files from a deduplicated dataset, grouping by `(template, sql)` “variations” and keeping paraphrases together, with optional unanswerable questions appended as `<NO_SQL>`.  
+The split utility creates train/val/test JSONL files from the source dataset, grouping by `(template, sql)` “variations” and keeping paraphrases together, with optional unanswerable questions appended as `<NO_SQL>`.  
 (See `DATA/split_script.py` for the exact split logic and assumptions.)
 
 ```bash
@@ -326,7 +326,7 @@ License link: https://creativecommons.org/licenses/by/4.0/
 
 ### What was adapted in this repository
 
-- `UNANSWERABLES.md`: consolidated pool of unanswerable questions extracted from the above resources, with deduplication and minor normalization/clean-up (see header in `UNANSWERABLES.md`).
+- `UNANSWERABLES.md`: consolidated pool of unanswerable questions extracted from the above resources, with minor normalization/clean-up (see header in `UNANSWERABLES.md`).
 - `Unanswerable_dataset.jsonl`: tagged/normalized version of the same pool, aligned with this benchmark’s format.
 
 If you reuse the data, please cite the original resources (Lee et al., 2022; Lee et al., 2024) and comply with their licenses/terms. No endorsement by the original authors is implied.
