@@ -15,6 +15,7 @@ Derived files in this repository include at least:
 - DATA/train.jsonl
 - DATA/val.jsonl
 - DATA/test.jsonl
+- unique_templates.jsonl
 
 Changes made in this repository include consolidation, normalization, tagging, formatting cleanup, and adaptation to this benchmark.
 
